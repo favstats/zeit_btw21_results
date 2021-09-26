@@ -1,5 +1,7 @@
 
 library(tidyverse)
+library(jsonlite)
+library(janitor)
 
 full_data <- jsonlite::fromJSON("https://interactive.zeit.de/g/cronjobs/dpa-wahl-daten/de-2021/live/full-data.json")
 
