@@ -146,6 +146,42 @@ f73cb5aa-1abc-4d30-aa58-d3961241cd90,296,Saarbrücken,910,Saarland,congressional
 4b1e28d4-c92d-4299-9356-f7b553b05370,293,Bodensee,908,Baden-Württemberg,congressional,NA,NA,0.1,203,NA,par_de_16,Bündnis C
 4b1e28d4-c92d-4299-9356-f7b553b05370,293,Bodensee,908,Baden-Württemberg,congressional,NA,NA,0,27,-0.04,par_de_28,MLPD
 4b1e28d4-c92d-4299-9356-f7b553b05370,293,Bodensee,908,Baden-Württemberg,congressional,NA,NA,0,32,NA,par_de_27,DKP
+d3a8d7d0-2fde-4094-89d4-8019348e5a47,291,Ulm,908,Baden-Württemberg,congressional,32.7,57611,26.6,46806,-10.350000000000001,par_de_2,CDU
+d3a8d7d0-2fde-4094-89d4-8019348e5a47,291,Ulm,908,Baden-Württemberg,congressional,18.3,32177,20.7,36415,4.84,par_de_1,SPD
+d3a8d7d0-2fde-4094-89d4-8019348e5a47,291,Ulm,908,Baden-Württemberg,congressional,18.8,33010,17.7,31237,3.959999999999999,par_de_3,Grüne
+d3a8d7d0-2fde-4094-89d4-8019348e5a47,291,Ulm,908,Baden-Württemberg,congressional,11.2,19745,14.4,25385,2.870000000000001,par_de_4,FDP
+d3a8d7d0-2fde-4094-89d4-8019348e5a47,291,Ulm,908,Baden-Württemberg,congressional,9.1,15930,9.1,16045,-2.5199999999999996,par_de_6,AfD
+d3a8d7d0-2fde-4094-89d4-8019348e5a47,291,Ulm,908,Baden-Württemberg,congressional,2.6,4602,3.1,5376,-2.57,par_de_5,Linke
+d3a8d7d0-2fde-4094-89d4-8019348e5a47,291,Ulm,908,Baden-Württemberg,congressional,2.8,4959,2.2,3808,1.4800000000000002,par_de_7,Freie Wähler
+d3a8d7d0-2fde-4094-89d4-8019348e5a47,291,Ulm,908,Baden-Württemberg,congressional,1.9,3303,1.4,2490,0.5999999999999999,par_de_12,Tierschutzpartei
+d3a8d7d0-2fde-4094-89d4-8019348e5a47,291,Ulm,908,Baden-Württemberg,congressional,1.1,2003,0.9,1530,0.18000000000000005,par_de_13,Die Partei
+d3a8d7d0-2fde-4094-89d4-8019348e5a47,291,Ulm,908,Baden-Württemberg,congressional,0.9,1670,0.5,914,-0.09999999999999998,par_de_9,Piraten
+d3a8d7d0-2fde-4094-89d4-8019348e5a47,291,Ulm,908,Baden-Württemberg,congressional,NA,NA,0.3,513,-0.08000000000000002,par_de_14,ÖDP
+d3a8d7d0-2fde-4094-89d4-8019348e5a47,291,Ulm,908,Baden-Württemberg,congressional,0.3,481,0.2,310,NA,par_de_39,Humanisten
+d3a8d7d0-2fde-4094-89d4-8019348e5a47,291,Ulm,908,Baden-Württemberg,congressional,NA,NA,0.2,353,NA,par_de_16,Bündnis C
+d3a8d7d0-2fde-4094-89d4-8019348e5a47,291,Ulm,908,Baden-Württemberg,congressional,NA,NA,0.1,252,NA,par_de_42,Gesundheitsforschung
+d3a8d7d0-2fde-4094-89d4-8019348e5a47,291,Ulm,908,Baden-Württemberg,congressional,NA,NA,0.1,173,-0.18000000000000002,par_de_11,NPD
+d3a8d7d0-2fde-4094-89d4-8019348e5a47,291,Ulm,908,Baden-Württemberg,congressional,NA,NA,0.1,143,-0.06,par_de_74,DiB
+d3a8d7d0-2fde-4094-89d4-8019348e5a47,291,Ulm,908,Baden-Württemberg,congressional,0.1,136,0,88,-0.06,par_de_28,MLPD
+d3a8d7d0-2fde-4094-89d4-8019348e5a47,291,Ulm,908,Baden-Württemberg,congressional,NA,NA,0,38,NA,par_de_27,DKP
+9dbb1e47-7341-4771-9475-707e9988bf10,290,Tübingen,908,Baden-Württemberg,congressional,25.7,40979,23.4,37424,5.399999999999999,par_de_3,Grüne
+9dbb1e47-7341-4771-9475-707e9988bf10,290,Tübingen,908,Baden-Württemberg,congressional,27,43021,21.8,34773,-9.02,par_de_2,CDU
+9dbb1e47-7341-4771-9475-707e9988bf10,290,Tübingen,908,Baden-Württemberg,congressional,18.2,28981,20.4,32577,4.699999999999999,par_de_1,SPD
+9dbb1e47-7341-4771-9475-707e9988bf10,290,Tübingen,908,Baden-Württemberg,congressional,9.4,15060,14.2,22678,2.379999999999999,par_de_4,FDP
+9dbb1e47-7341-4771-9475-707e9988bf10,290,Tübingen,908,Baden-Württemberg,congressional,7.8,12485,7.9,12549,-2.129999999999999,par_de_6,AfD
+9dbb1e47-7341-4771-9475-707e9988bf10,290,Tübingen,908,Baden-Württemberg,congressional,4.7,7525,5.2,8231,-4.329999999999999,par_de_5,Linke
+9dbb1e47-7341-4771-9475-707e9988bf10,290,Tübingen,908,Baden-Württemberg,congressional,1.7,2789,1.2,1977,0.72,par_de_7,Freie Wähler
+9dbb1e47-7341-4771-9475-707e9988bf10,290,Tübingen,908,Baden-Württemberg,congressional,1.6,2544,1.1,1777,0.4700000000000001,par_de_12,Tierschutzpartei
+9dbb1e47-7341-4771-9475-707e9988bf10,290,Tübingen,908,Baden-Württemberg,congressional,1.2,1953,0.8,1293,-0.029999999999999916,par_de_13,Die Partei
+9dbb1e47-7341-4771-9475-707e9988bf10,290,Tübingen,908,Baden-Württemberg,congressional,0.5,743,0.3,503,-0.10000000000000003,par_de_14,ÖDP
+9dbb1e47-7341-4771-9475-707e9988bf10,290,Tübingen,908,Baden-Württemberg,congressional,NA,NA,0.3,532,-0.15000000000000002,par_de_9,Piraten
+9dbb1e47-7341-4771-9475-707e9988bf10,290,Tübingen,908,Baden-Württemberg,congressional,NA,NA,0.2,323,NA,par_de_16,Bündnis C
+9dbb1e47-7341-4771-9475-707e9988bf10,290,Tübingen,908,Baden-Württemberg,congressional,0.3,493,0.1,223,-0.13999999999999999,par_de_74,DiB
+9dbb1e47-7341-4771-9475-707e9988bf10,290,Tübingen,908,Baden-Württemberg,congressional,NA,NA,0.1,155,NA,par_de_42,Gesundheitsforschung
+9dbb1e47-7341-4771-9475-707e9988bf10,290,Tübingen,908,Baden-Württemberg,congressional,NA,NA,0.1,132,-0.10999999999999999,par_de_11,NPD
+9dbb1e47-7341-4771-9475-707e9988bf10,290,Tübingen,908,Baden-Württemberg,congressional,NA,NA,0.1,208,NA,par_de_39,Humanisten
+9dbb1e47-7341-4771-9475-707e9988bf10,290,Tübingen,908,Baden-Württemberg,congressional,0.1,114,0,50,-0.09,par_de_28,MLPD
+9dbb1e47-7341-4771-9475-707e9988bf10,290,Tübingen,908,Baden-Württemberg,congressional,NA,NA,0,42,NA,par_de_27,DKP
 4445a887-c1a3-416e-af8d-61240dd65afe,289,Reutlingen,908,Baden-Württemberg,congressional,32.6,49631,25.9,39505,-8.620000000000005,par_de_2,CDU
 4445a887-c1a3-416e-af8d-61240dd65afe,289,Reutlingen,908,Baden-Württemberg,congressional,17.9,27236,20.7,31535,5.76,par_de_1,SPD
 4445a887-c1a3-416e-af8d-61240dd65afe,289,Reutlingen,908,Baden-Württemberg,congressional,13.4,20411,16.6,25288,2.870000000000001,par_de_4,FDP
@@ -182,6 +218,42 @@ f73cb5aa-1abc-4d30-aa58-d3961241cd90,296,Saarbrücken,910,Saarland,congressional
 1285e8d8-c101-49e7-a321-d4851a2ca8c3,288,Waldshut,908,Baden-Württemberg,congressional,NA,NA,0.1,162,NA,par_de_42,Gesundheitsforschung
 1285e8d8-c101-49e7-a321-d4851a2ca8c3,288,Waldshut,908,Baden-Württemberg,congressional,NA,NA,0,34,-0.02,par_de_28,MLPD
 1285e8d8-c101-49e7-a321-d4851a2ca8c3,288,Waldshut,908,Baden-Württemberg,congressional,NA,NA,0,16,NA,par_de_27,DKP
+65591e08-b24f-45f9-bf7a-81f3ac41cdbd,287,Konstanz,908,Baden-Württemberg,congressional,34.1,53360,23.2,36208,-9.959999999999997,par_de_2,CDU
+65591e08-b24f-45f9-bf7a-81f3ac41cdbd,287,Konstanz,908,Baden-Württemberg,congressional,18,28142,21,32913,4.989999999999998,par_de_3,Grüne
+65591e08-b24f-45f9-bf7a-81f3ac41cdbd,287,Konstanz,908,Baden-Württemberg,congressional,20.1,31486,20.9,32655,5.309999999999999,par_de_1,SPD
+65591e08-b24f-45f9-bf7a-81f3ac41cdbd,287,Konstanz,908,Baden-Württemberg,congressional,10.9,17047,15,23509,1.8100000000000005,par_de_4,FDP
+65591e08-b24f-45f9-bf7a-81f3ac41cdbd,287,Konstanz,908,Baden-Württemberg,congressional,8.6,13487,8.5,13341,-1.8000000000000007,par_de_6,AfD
+65591e08-b24f-45f9-bf7a-81f3ac41cdbd,287,Konstanz,908,Baden-Württemberg,congressional,3.6,5591,3.7,5804,-3.4799999999999995,par_de_5,Linke
+65591e08-b24f-45f9-bf7a-81f3ac41cdbd,287,Konstanz,908,Baden-Württemberg,congressional,1.8,2809,1.4,2204,0.7699999999999999,par_de_7,Freie Wähler
+65591e08-b24f-45f9-bf7a-81f3ac41cdbd,287,Konstanz,908,Baden-Württemberg,congressional,NA,NA,1.2,1927,0.26,par_de_12,Tierschutzpartei
+65591e08-b24f-45f9-bf7a-81f3ac41cdbd,287,Konstanz,908,Baden-Württemberg,congressional,1.8,2838,1.1,1643,0.2400000000000001,par_de_13,Die Partei
+65591e08-b24f-45f9-bf7a-81f3ac41cdbd,287,Konstanz,908,Baden-Württemberg,congressional,0.6,944,0.3,463,0.010000000000000009,par_de_14,ÖDP
+65591e08-b24f-45f9-bf7a-81f3ac41cdbd,287,Konstanz,908,Baden-Württemberg,congressional,NA,NA,0.3,545,-0.10999999999999999,par_de_9,Piraten
+65591e08-b24f-45f9-bf7a-81f3ac41cdbd,287,Konstanz,908,Baden-Württemberg,congressional,NA,NA,0.1,220,NA,par_de_16,Bündnis C
+65591e08-b24f-45f9-bf7a-81f3ac41cdbd,287,Konstanz,908,Baden-Württemberg,congressional,NA,NA,0.1,141,NA,par_de_42,Gesundheitsforschung
+65591e08-b24f-45f9-bf7a-81f3ac41cdbd,287,Konstanz,908,Baden-Württemberg,congressional,NA,NA,0.1,140,-0.09,par_de_74,DiB
+65591e08-b24f-45f9-bf7a-81f3ac41cdbd,287,Konstanz,908,Baden-Württemberg,congressional,NA,NA,0.1,141,-0.10999999999999999,par_de_11,NPD
+65591e08-b24f-45f9-bf7a-81f3ac41cdbd,287,Konstanz,908,Baden-Württemberg,congressional,NA,NA,0.1,164,NA,par_de_39,Humanisten
+65591e08-b24f-45f9-bf7a-81f3ac41cdbd,287,Konstanz,908,Baden-Württemberg,congressional,NA,NA,0,33,-0.05,par_de_28,MLPD
+65591e08-b24f-45f9-bf7a-81f3ac41cdbd,287,Konstanz,908,Baden-Württemberg,congressional,NA,NA,0,35,NA,par_de_27,DKP
+a008f974-29f7-4a58-a697-5630ce48dd76,286,Schwarzwald-Baar,908,Baden-Württemberg,congressional,36.4,44188,26.6,32317,-11.229999999999997,par_de_2,CDU
+a008f974-29f7-4a58-a697-5630ce48dd76,286,Schwarzwald-Baar,908,Baden-Württemberg,congressional,18.1,21995,21.2,25805,5.5699999999999985,par_de_1,SPD
+a008f974-29f7-4a58-a697-5630ce48dd76,286,Schwarzwald-Baar,908,Baden-Württemberg,congressional,13.8,16747,16.2,19692,3.9799999999999986,par_de_4,FDP
+a008f974-29f7-4a58-a697-5630ce48dd76,286,Schwarzwald-Baar,908,Baden-Württemberg,congressional,12.1,14692,13.3,16181,1.0899999999999999,par_de_3,Grüne
+a008f974-29f7-4a58-a697-5630ce48dd76,286,Schwarzwald-Baar,908,Baden-Württemberg,congressional,10.5,12794,10.8,13101,-1.6099999999999994,par_de_6,AfD
+a008f974-29f7-4a58-a697-5630ce48dd76,286,Schwarzwald-Baar,908,Baden-Württemberg,congressional,2.3,2757,2.5,3062,-2.84,par_de_5,Linke
+a008f974-29f7-4a58-a697-5630ce48dd76,286,Schwarzwald-Baar,908,Baden-Württemberg,congressional,2.7,3306,2,2390,1.2,par_de_7,Freie Wähler
+a008f974-29f7-4a58-a697-5630ce48dd76,286,Schwarzwald-Baar,908,Baden-Württemberg,congressional,NA,NA,1.3,1602,0.4700000000000001,par_de_12,Tierschutzpartei
+a008f974-29f7-4a58-a697-5630ce48dd76,286,Schwarzwald-Baar,908,Baden-Württemberg,congressional,NA,NA,0.7,843,0.1399999999999999,par_de_13,Die Partei
+a008f974-29f7-4a58-a697-5630ce48dd76,286,Schwarzwald-Baar,908,Baden-Württemberg,congressional,NA,NA,0.4,442,0.020000000000000018,par_de_9,Piraten
+a008f974-29f7-4a58-a697-5630ce48dd76,286,Schwarzwald-Baar,908,Baden-Württemberg,congressional,NA,NA,0.2,292,NA,par_de_16,Bündnis C
+a008f974-29f7-4a58-a697-5630ce48dd76,286,Schwarzwald-Baar,908,Baden-Württemberg,congressional,NA,NA,0.2,196,-0.27999999999999997,par_de_11,NPD
+a008f974-29f7-4a58-a697-5630ce48dd76,286,Schwarzwald-Baar,908,Baden-Württemberg,congressional,NA,NA,0.2,276,-0.04999999999999999,par_de_14,ÖDP
+a008f974-29f7-4a58-a697-5630ce48dd76,286,Schwarzwald-Baar,908,Baden-Württemberg,congressional,NA,NA,0.2,189,NA,par_de_42,Gesundheitsforschung
+a008f974-29f7-4a58-a697-5630ce48dd76,286,Schwarzwald-Baar,908,Baden-Württemberg,congressional,NA,NA,0.1,102,0,par_de_74,DiB
+a008f974-29f7-4a58-a697-5630ce48dd76,286,Schwarzwald-Baar,908,Baden-Württemberg,congressional,NA,NA,0.1,107,NA,par_de_39,Humanisten
+a008f974-29f7-4a58-a697-5630ce48dd76,286,Schwarzwald-Baar,908,Baden-Württemberg,congressional,0.1,140,0,56,-0.08,par_de_28,MLPD
+a008f974-29f7-4a58-a697-5630ce48dd76,286,Schwarzwald-Baar,908,Baden-Württemberg,congressional,NA,NA,0,40,NA,par_de_27,DKP
 ec382aa3-b37c-40f7-a3f8-07f4ec766484,285,Rottweil – Tuttlingen,908,Baden-Württemberg,congressional,31.5,46535,27.6,40818,-10.43,par_de_2,CDU
 ec382aa3-b37c-40f7-a3f8-07f4ec766484,285,Rottweil – Tuttlingen,908,Baden-Württemberg,congressional,16.2,23988,18.6,27523,4.000000000000002,par_de_1,SPD
 ec382aa3-b37c-40f7-a3f8-07f4ec766484,285,Rottweil – Tuttlingen,908,Baden-Württemberg,congressional,16.8,24782,18.1,26768,4.550000000000001,par_de_4,FDP
@@ -200,6 +272,42 @@ ec382aa3-b37c-40f7-a3f8-07f4ec766484,285,Rottweil – Tuttlingen,908,Baden-Würt
 ec382aa3-b37c-40f7-a3f8-07f4ec766484,285,Rottweil – Tuttlingen,908,Baden-Württemberg,congressional,NA,NA,0.1,111,-0.009999999999999995,par_de_74,DiB
 ec382aa3-b37c-40f7-a3f8-07f4ec766484,285,Rottweil – Tuttlingen,908,Baden-Württemberg,congressional,NA,NA,0,12,-0.03,par_de_28,MLPD
 ec382aa3-b37c-40f7-a3f8-07f4ec766484,285,Rottweil – Tuttlingen,908,Baden-Württemberg,congressional,NA,NA,0,24,NA,par_de_27,DKP
+e2a31cb6-2269-4ef7-9351-645e84fff5ef,284,Offenburg,908,Baden-Württemberg,congressional,34.9,54139,25.9,40211,-11.219999999999999,par_de_2,CDU
+e2a31cb6-2269-4ef7-9351-645e84fff5ef,284,Offenburg,908,Baden-Württemberg,congressional,18.7,29002,21.3,33042,4.760000000000002,par_de_1,SPD
+e2a31cb6-2269-4ef7-9351-645e84fff5ef,284,Offenburg,908,Baden-Württemberg,congressional,14,21719,14.9,23082,1.0899999999999999,par_de_3,Grüne
+e2a31cb6-2269-4ef7-9351-645e84fff5ef,284,Offenburg,908,Baden-Württemberg,congressional,10.8,16688,14.7,22799,3.67,par_de_4,FDP
+e2a31cb6-2269-4ef7-9351-645e84fff5ef,284,Offenburg,908,Baden-Württemberg,congressional,8.9,13875,9.9,15319,-1.6799999999999997,par_de_6,AfD
+e2a31cb6-2269-4ef7-9351-645e84fff5ef,284,Offenburg,908,Baden-Württemberg,congressional,2.7,4253,2.8,4423,-2.67,par_de_5,Linke
+e2a31cb6-2269-4ef7-9351-645e84fff5ef,284,Offenburg,908,Baden-Württemberg,congressional,3.8,5880,2.4,3729,1.5499999999999998,par_de_7,Freie Wähler
+e2a31cb6-2269-4ef7-9351-645e84fff5ef,284,Offenburg,908,Baden-Württemberg,congressional,NA,NA,1.5,2287,0.56,par_de_12,Tierschutzpartei
+e2a31cb6-2269-4ef7-9351-645e84fff5ef,284,Offenburg,908,Baden-Württemberg,congressional,1.7,2627,0.9,1465,0.28,par_de_13,Die Partei
+e2a31cb6-2269-4ef7-9351-645e84fff5ef,284,Offenburg,908,Baden-Württemberg,congressional,NA,NA,0.4,580,-0.019999999999999962,par_de_9,Piraten
+e2a31cb6-2269-4ef7-9351-645e84fff5ef,284,Offenburg,908,Baden-Württemberg,congressional,NA,NA,0.2,286,-0.04999999999999999,par_de_14,ÖDP
+e2a31cb6-2269-4ef7-9351-645e84fff5ef,284,Offenburg,908,Baden-Württemberg,congressional,NA,NA,0.1,146,-0.13,par_de_11,NPD
+e2a31cb6-2269-4ef7-9351-645e84fff5ef,284,Offenburg,908,Baden-Württemberg,congressional,NA,NA,0.1,220,NA,par_de_42,Gesundheitsforschung
+e2a31cb6-2269-4ef7-9351-645e84fff5ef,284,Offenburg,908,Baden-Württemberg,congressional,NA,NA,0.1,173,NA,par_de_16,Bündnis C
+e2a31cb6-2269-4ef7-9351-645e84fff5ef,284,Offenburg,908,Baden-Württemberg,congressional,NA,NA,0.1,158,-0.009999999999999995,par_de_74,DiB
+e2a31cb6-2269-4ef7-9351-645e84fff5ef,284,Offenburg,908,Baden-Württemberg,congressional,NA,NA,0.1,140,NA,par_de_39,Humanisten
+e2a31cb6-2269-4ef7-9351-645e84fff5ef,284,Offenburg,908,Baden-Württemberg,congressional,NA,NA,0,28,NA,par_de_27,DKP
+e2a31cb6-2269-4ef7-9351-645e84fff5ef,284,Offenburg,908,Baden-Württemberg,congressional,NA,NA,0,19,-0.02,par_de_28,MLPD
+ab9fb428-3f45-46bd-bb5a-194bd025c69a,283,Emmendingen – Lahr,908,Baden-Württemberg,congressional,27.8,46410,24.8,41326,-11.120000000000001,par_de_2,CDU
+ab9fb428-3f45-46bd-bb5a-194bd025c69a,283,Emmendingen – Lahr,908,Baden-Württemberg,congressional,27.8,46318,23.9,39728,6.029999999999998,par_de_1,SPD
+ab9fb428-3f45-46bd-bb5a-194bd025c69a,283,Emmendingen – Lahr,908,Baden-Württemberg,congressional,14,23345,17.2,28723,3.5,par_de_3,Grüne
+ab9fb428-3f45-46bd-bb5a-194bd025c69a,283,Emmendingen – Lahr,908,Baden-Württemberg,congressional,10,16622,13.3,22136,2.710000000000001,par_de_4,FDP
+ab9fb428-3f45-46bd-bb5a-194bd025c69a,283,Emmendingen – Lahr,908,Baden-Württemberg,congressional,8.6,14397,9,14969,-2.5,par_de_6,AfD
+ab9fb428-3f45-46bd-bb5a-194bd025c69a,283,Emmendingen – Lahr,908,Baden-Württemberg,congressional,3,4917,3.1,5205,-2.6599999999999997,par_de_5,Linke
+ab9fb428-3f45-46bd-bb5a-194bd025c69a,283,Emmendingen – Lahr,908,Baden-Württemberg,congressional,2.2,3601,1.9,3127,0.6399999999999999,par_de_12,Tierschutzpartei
+ab9fb428-3f45-46bd-bb5a-194bd025c69a,283,Emmendingen – Lahr,908,Baden-Württemberg,congressional,2.4,3963,1.9,3146,1.14,par_de_7,Freie Wähler
+ab9fb428-3f45-46bd-bb5a-194bd025c69a,283,Emmendingen – Lahr,908,Baden-Württemberg,congressional,1.2,1980,0.9,1514,0.32000000000000006,par_de_13,Die Partei
+ab9fb428-3f45-46bd-bb5a-194bd025c69a,283,Emmendingen – Lahr,908,Baden-Württemberg,congressional,0.7,1159,0.4,676,-0.17999999999999994,par_de_14,ÖDP
+ab9fb428-3f45-46bd-bb5a-194bd025c69a,283,Emmendingen – Lahr,908,Baden-Württemberg,congressional,NA,NA,0.3,567,-0.12,par_de_9,Piraten
+ab9fb428-3f45-46bd-bb5a-194bd025c69a,283,Emmendingen – Lahr,908,Baden-Württemberg,congressional,NA,NA,0.2,332,NA,par_de_16,Bündnis C
+ab9fb428-3f45-46bd-bb5a-194bd025c69a,283,Emmendingen – Lahr,908,Baden-Württemberg,congressional,NA,NA,0.1,120,NA,par_de_39,Humanisten
+ab9fb428-3f45-46bd-bb5a-194bd025c69a,283,Emmendingen – Lahr,908,Baden-Württemberg,congressional,NA,NA,0.1,168,-0.009999999999999995,par_de_74,DiB
+ab9fb428-3f45-46bd-bb5a-194bd025c69a,283,Emmendingen – Lahr,908,Baden-Württemberg,congressional,NA,NA,0.1,168,-0.12,par_de_11,NPD
+ab9fb428-3f45-46bd-bb5a-194bd025c69a,283,Emmendingen – Lahr,908,Baden-Württemberg,congressional,NA,NA,0.1,181,NA,par_de_42,Gesundheitsforschung
+ab9fb428-3f45-46bd-bb5a-194bd025c69a,283,Emmendingen – Lahr,908,Baden-Württemberg,congressional,NA,NA,0,24,NA,par_de_27,DKP
+ab9fb428-3f45-46bd-bb5a-194bd025c69a,283,Emmendingen – Lahr,908,Baden-Württemberg,congressional,NA,NA,0,22,-0.04,par_de_28,MLPD
 325fdd21-6482-4908-979a-2c55539571fe,282,Lörrach – Müllheim,908,Baden-Württemberg,congressional,21.8,37494,24.2,41834,6.41,par_de_1,SPD
 325fdd21-6482-4908-979a-2c55539571fe,282,Lörrach – Müllheim,908,Baden-Württemberg,congressional,25.2,43511,22.3,38499,-12.139999999999997,par_de_2,CDU
 325fdd21-6482-4908-979a-2c55539571fe,282,Lörrach – Müllheim,908,Baden-Württemberg,congressional,20.6,35557,19,32818,3.630000000000001,par_de_3,Grüne
@@ -345,6 +453,24 @@ d6ce68b8-6f5f-4c4f-b81f-66b6d864b0c3,277,Rhein-Neckar,908,Baden-Württemberg,con
 39b5a226-d918-4fd7-9887-708e912832de,275,Mannheim,908,Baden-Württemberg,congressional,NA,NA,0.1,146,NA,par_de_16,Bündnis C
 39b5a226-d918-4fd7-9887-708e912832de,275,Mannheim,908,Baden-Württemberg,congressional,NA,NA,0.1,146,-0.17,par_de_11,NPD
 39b5a226-d918-4fd7-9887-708e912832de,275,Mannheim,908,Baden-Württemberg,congressional,NA,NA,0,58,NA,par_de_27,DKP
+b3aa368b-accb-440f-8e36-b5a5031f29ba,274,Heidelberg,908,Baden-Württemberg,congressional,30.2,53288,25.6,45314,8.450000000000003,par_de_3,Grüne
+b3aa368b-accb-440f-8e36-b5a5031f29ba,274,Heidelberg,908,Baden-Württemberg,congressional,20.2,35603,22.8,40276,4.350000000000001,par_de_1,SPD
+b3aa368b-accb-440f-8e36-b5a5031f29ba,274,Heidelberg,908,Baden-Württemberg,congressional,24.1,42582,20.8,36783,-9.079999999999998,par_de_2,CDU
+b3aa368b-accb-440f-8e36-b5a5031f29ba,274,Heidelberg,908,Baden-Württemberg,congressional,9,15906,13.1,23240,0.41999999999999993,par_de_4,FDP
+b3aa368b-accb-440f-8e36-b5a5031f29ba,274,Heidelberg,908,Baden-Württemberg,congressional,6.1,10823,6.1,10821,-3.380000000000001,par_de_6,AfD
+b3aa368b-accb-440f-8e36-b5a5031f29ba,274,Heidelberg,908,Baden-Württemberg,congressional,4,6987,4.9,8624,-3.4299999999999997,par_de_5,Linke
+b3aa368b-accb-440f-8e36-b5a5031f29ba,274,Heidelberg,908,Baden-Württemberg,congressional,1.6,2840,1.1,2013,0.54,par_de_7,Freie Wähler
+b3aa368b-accb-440f-8e36-b5a5031f29ba,274,Heidelberg,908,Baden-Württemberg,congressional,NA,NA,1,1761,0.35,par_de_12,Tierschutzpartei
+b3aa368b-accb-440f-8e36-b5a5031f29ba,274,Heidelberg,908,Baden-Württemberg,congressional,1.2,2151,0.8,1470,-0.19999999999999996,par_de_13,Die Partei
+b3aa368b-accb-440f-8e36-b5a5031f29ba,274,Heidelberg,908,Baden-Württemberg,congressional,NA,NA,0.3,487,-0.10999999999999999,par_de_9,Piraten
+b3aa368b-accb-440f-8e36-b5a5031f29ba,274,Heidelberg,908,Baden-Württemberg,congressional,NA,NA,0.2,366,-0.01999999999999999,par_de_14,ÖDP
+b3aa368b-accb-440f-8e36-b5a5031f29ba,274,Heidelberg,908,Baden-Württemberg,congressional,0.3,592,0.2,379,NA,par_de_39,Humanisten
+b3aa368b-accb-440f-8e36-b5a5031f29ba,274,Heidelberg,908,Baden-Württemberg,congressional,NA,NA,0.1,114,-0.07,par_de_11,NPD
+b3aa368b-accb-440f-8e36-b5a5031f29ba,274,Heidelberg,908,Baden-Württemberg,congressional,NA,NA,0.1,184,NA,par_de_16,Bündnis C
+b3aa368b-accb-440f-8e36-b5a5031f29ba,274,Heidelberg,908,Baden-Württemberg,congressional,NA,NA,0.1,170,-0.12,par_de_74,DiB
+b3aa368b-accb-440f-8e36-b5a5031f29ba,274,Heidelberg,908,Baden-Württemberg,congressional,NA,NA,0.1,186,NA,par_de_42,Gesundheitsforschung
+b3aa368b-accb-440f-8e36-b5a5031f29ba,274,Heidelberg,908,Baden-Württemberg,congressional,0.1,155,0,63,-0.05,par_de_28,MLPD
+b3aa368b-accb-440f-8e36-b5a5031f29ba,274,Heidelberg,908,Baden-Württemberg,congressional,NA,NA,0,43,NA,par_de_27,DKP
 1fea8bd9-f870-4b3c-9518-5825474e4271,273,Rastatt,908,Baden-Württemberg,congressional,33.2,50991,27,41499,-10.869999999999997,par_de_2,CDU
 1fea8bd9-f870-4b3c-9518-5825474e4271,273,Rastatt,908,Baden-Württemberg,congressional,22.7,34847,23.7,36443,6.710000000000001,par_de_1,SPD
 1fea8bd9-f870-4b3c-9518-5825474e4271,273,Rastatt,908,Baden-Württemberg,congressional,13,19962,14.3,21926,2.860000000000001,par_de_3,Grüne
@@ -363,6 +489,24 @@ d6ce68b8-6f5f-4c4f-b81f-66b6d864b0c3,277,Rhein-Neckar,908,Baden-Württemberg,con
 1fea8bd9-f870-4b3c-9518-5825474e4271,273,Rastatt,908,Baden-Württemberg,congressional,NA,NA,0.1,113,NA,par_de_16,Bündnis C
 1fea8bd9-f870-4b3c-9518-5825474e4271,273,Rastatt,908,Baden-Württemberg,congressional,NA,NA,0,31,NA,par_de_27,DKP
 1fea8bd9-f870-4b3c-9518-5825474e4271,273,Rastatt,908,Baden-Württemberg,congressional,NA,NA,0,25,-0.04,par_de_28,MLPD
+db0893a6-8bfc-48c3-8b46-3cb1b20fe01b,272,Karlsruhe-Land,908,Baden-Württemberg,congressional,30.4,50581,25.7,42831,-9.680000000000003,par_de_2,CDU
+db0893a6-8bfc-48c3-8b46-3cb1b20fe01b,272,Karlsruhe-Land,908,Baden-Württemberg,congressional,22.8,37948,23.1,38474,5.990000000000002,par_de_1,SPD
+db0893a6-8bfc-48c3-8b46-3cb1b20fe01b,272,Karlsruhe-Land,908,Baden-Württemberg,congressional,16.7,27755,16.2,26969,3.9399999999999995,par_de_3,Grüne
+db0893a6-8bfc-48c3-8b46-3cb1b20fe01b,272,Karlsruhe-Land,908,Baden-Württemberg,congressional,11.5,19066,14.8,24660,1.9700000000000006,par_de_4,FDP
+db0893a6-8bfc-48c3-8b46-3cb1b20fe01b,272,Karlsruhe-Land,908,Baden-Württemberg,congressional,9,14964,9.5,15869,-3,par_de_6,AfD
+db0893a6-8bfc-48c3-8b46-3cb1b20fe01b,272,Karlsruhe-Land,908,Baden-Württemberg,congressional,2.4,4040,2.7,4483,-2.76,par_de_5,Linke
+db0893a6-8bfc-48c3-8b46-3cb1b20fe01b,272,Karlsruhe-Land,908,Baden-Württemberg,congressional,2.6,4358,1.8,3001,0.92,par_de_7,Freie Wähler
+db0893a6-8bfc-48c3-8b46-3cb1b20fe01b,272,Karlsruhe-Land,908,Baden-Württemberg,congressional,NA,NA,1.4,2287,0.5199999999999999,par_de_12,Tierschutzpartei
+db0893a6-8bfc-48c3-8b46-3cb1b20fe01b,272,Karlsruhe-Land,908,Baden-Württemberg,congressional,1.5,2437,0.9,1478,0.050000000000000044,par_de_13,Die Partei
+db0893a6-8bfc-48c3-8b46-3cb1b20fe01b,272,Karlsruhe-Land,908,Baden-Württemberg,congressional,NA,NA,0.3,549,NA,par_de_16,Bündnis C
+db0893a6-8bfc-48c3-8b46-3cb1b20fe01b,272,Karlsruhe-Land,908,Baden-Württemberg,congressional,NA,NA,0.3,525,-0.09000000000000002,par_de_9,Piraten
+db0893a6-8bfc-48c3-8b46-3cb1b20fe01b,272,Karlsruhe-Land,908,Baden-Württemberg,congressional,0.3,562,0.2,330,0.020000000000000018,par_de_14,ÖDP
+db0893a6-8bfc-48c3-8b46-3cb1b20fe01b,272,Karlsruhe-Land,908,Baden-Württemberg,congressional,NA,NA,0.1,128,-0.06,par_de_74,DiB
+db0893a6-8bfc-48c3-8b46-3cb1b20fe01b,272,Karlsruhe-Land,908,Baden-Württemberg,congressional,0.3,496,0.1,245,NA,par_de_39,Humanisten
+db0893a6-8bfc-48c3-8b46-3cb1b20fe01b,272,Karlsruhe-Land,908,Baden-Württemberg,congressional,NA,NA,0.1,143,-0.07999999999999999,par_de_11,NPD
+db0893a6-8bfc-48c3-8b46-3cb1b20fe01b,272,Karlsruhe-Land,908,Baden-Württemberg,congressional,NA,NA,0.1,197,NA,par_de_42,Gesundheitsforschung
+db0893a6-8bfc-48c3-8b46-3cb1b20fe01b,272,Karlsruhe-Land,908,Baden-Württemberg,congressional,NA,NA,0,20,NA,par_de_27,DKP
+db0893a6-8bfc-48c3-8b46-3cb1b20fe01b,272,Karlsruhe-Land,908,Baden-Württemberg,congressional,NA,NA,0,26,-0.04,par_de_28,MLPD
 038a91e8-71ce-451f-b530-3bde2c13d9c6,271,Karlsruhe-Stadt,908,Baden-Württemberg,congressional,30,47472,27.8,44011,9.52,par_de_3,Grüne
 038a91e8-71ce-451f-b530-3bde2c13d9c6,271,Karlsruhe-Stadt,908,Baden-Württemberg,congressional,21.3,33629,21.3,33827,4.490000000000002,par_de_1,SPD
 038a91e8-71ce-451f-b530-3bde2c13d9c6,271,Karlsruhe-Stadt,908,Baden-Württemberg,congressional,19.5,30920,17.7,27996,-10.129999999999999,par_de_2,CDU
@@ -507,6 +651,24 @@ e5064f0d-7265-4454-9af5-7a982399d6d3,264,Waiblingen,908,Baden-Württemberg,congr
 e5064f0d-7265-4454-9af5-7a982399d6d3,264,Waiblingen,908,Baden-Württemberg,congressional,NA,NA,0.1,166,NA,par_de_39,Humanisten
 e5064f0d-7265-4454-9af5-7a982399d6d3,264,Waiblingen,908,Baden-Württemberg,congressional,NA,NA,0,53,NA,par_de_27,DKP
 e5064f0d-7265-4454-9af5-7a982399d6d3,264,Waiblingen,908,Baden-Württemberg,congressional,0.1,156,0,77,-0.08,par_de_28,MLPD
+81ef8df2-1f71-472a-90b5-f3207b02160a,263,Göppingen,908,Baden-Württemberg,congressional,31,41556,26.1,35078,-7.210000000000001,par_de_2,CDU
+81ef8df2-1f71-472a-90b5-f3207b02160a,263,Göppingen,908,Baden-Württemberg,congressional,23.7,31823,23.4,31421,5.799999999999997,par_de_1,SPD
+81ef8df2-1f71-472a-90b5-f3207b02160a,263,Göppingen,908,Baden-Württemberg,congressional,12.3,16481,16.2,21723,3.5599999999999987,par_de_4,FDP
+81ef8df2-1f71-472a-90b5-f3207b02160a,263,Göppingen,908,Baden-Württemberg,congressional,11.9,15932,12.6,16915,0.27999999999999936,par_de_3,Grüne
+81ef8df2-1f71-472a-90b5-f3207b02160a,263,Göppingen,908,Baden-Württemberg,congressional,11.8,15818,11.5,15413,-3.1799999999999997,par_de_6,AfD
+81ef8df2-1f71-472a-90b5-f3207b02160a,263,Göppingen,908,Baden-Württemberg,congressional,2.2,2958,2.5,3338,-2.5599999999999996,par_de_5,Linke
+81ef8df2-1f71-472a-90b5-f3207b02160a,263,Göppingen,908,Baden-Württemberg,congressional,3.3,4394,1.9,2525,1.23,par_de_7,Freie Wähler
+81ef8df2-1f71-472a-90b5-f3207b02160a,263,Göppingen,908,Baden-Württemberg,congressional,NA,NA,1.2,1659,0.2799999999999999,par_de_12,Tierschutzpartei
+81ef8df2-1f71-472a-90b5-f3207b02160a,263,Göppingen,908,Baden-Württemberg,congressional,1.5,2033,0.9,1176,0.24,par_de_13,Die Partei
+81ef8df2-1f71-472a-90b5-f3207b02160a,263,Göppingen,908,Baden-Württemberg,congressional,NA,NA,0.4,504,-0.18999999999999995,par_de_9,Piraten
+81ef8df2-1f71-472a-90b5-f3207b02160a,263,Göppingen,908,Baden-Württemberg,congressional,NA,NA,0.2,293,-0.04999999999999999,par_de_14,ÖDP
+81ef8df2-1f71-472a-90b5-f3207b02160a,263,Göppingen,908,Baden-Württemberg,congressional,NA,NA,0.1,85,NA,par_de_39,Humanisten
+81ef8df2-1f71-472a-90b5-f3207b02160a,263,Göppingen,908,Baden-Württemberg,congressional,NA,NA,0.1,150,-0.17,par_de_11,NPD
+81ef8df2-1f71-472a-90b5-f3207b02160a,263,Göppingen,908,Baden-Württemberg,congressional,NA,NA,0.1,154,NA,par_de_16,Bündnis C
+81ef8df2-1f71-472a-90b5-f3207b02160a,263,Göppingen,908,Baden-Württemberg,congressional,NA,NA,0.1,122,-0.009999999999999995,par_de_74,DiB
+81ef8df2-1f71-472a-90b5-f3207b02160a,263,Göppingen,908,Baden-Württemberg,congressional,NA,NA,0.1,161,NA,par_de_42,Gesundheitsforschung
+81ef8df2-1f71-472a-90b5-f3207b02160a,263,Göppingen,908,Baden-Württemberg,congressional,0.1,170,0,59,-0.1,par_de_28,MLPD
+81ef8df2-1f71-472a-90b5-f3207b02160a,263,Göppingen,908,Baden-Württemberg,congressional,NA,NA,0,16,NA,par_de_27,DKP
 004160ff-ea4e-422f-bd83-92c0c7e1b1eb,262,Nürtingen,908,Baden-Württemberg,congressional,30.1,49482,26,42807,-7.670000000000002,par_de_2,CDU
 004160ff-ea4e-422f-bd83-92c0c7e1b1eb,262,Nürtingen,908,Baden-Württemberg,congressional,21,34602,20.7,33983,5.58,par_de_1,SPD
 004160ff-ea4e-422f-bd83-92c0c7e1b1eb,262,Nürtingen,908,Baden-Württemberg,congressional,13.8,22751,17.5,28789,2.539999999999999,par_de_4,FDP
@@ -2392,12 +2554,12 @@ cfef7a7a-969d-4718-a3b0-6132cee8fdbe,164,Erzgebirgskreis I,914,Sachsen,congressi
 24f53847-55cf-48ad-8117-428cec5ffb3d,160,Dresden II – Bautzen II,914,Sachsen,congressional,1.4,2692,0.9,1708,0.08999999999999997,par_de_9,Piraten
 24f53847-55cf-48ad-8117-428cec5ffb3d,160,Dresden II – Bautzen II,914,Sachsen,congressional,0.7,1366,0.6,1099,NA,par_de_42,Gesundheitsforschung
 24f53847-55cf-48ad-8117-428cec5ffb3d,160,Dresden II – Bautzen II,914,Sachsen,congressional,0.6,1054,0.3,642,-0.29,par_de_14,ÖDP
-24f53847-55cf-48ad-8117-428cec5ffb3d,160,Dresden II – Bautzen II,914,Sachsen,congressional,NA,NA,0.2,424,NA,par_de_39,Humanisten
 24f53847-55cf-48ad-8117-428cec5ffb3d,160,Dresden II – Bautzen II,914,Sachsen,congressional,NA,NA,0.2,308,-0.54,par_de_11,NPD
-24f53847-55cf-48ad-8117-428cec5ffb3d,160,Dresden II – Bautzen II,914,Sachsen,congressional,NA,NA,0.1,256,NA,par_de_16,Bündnis C
-24f53847-55cf-48ad-8117-428cec5ffb3d,160,Dresden II – Bautzen II,914,Sachsen,congressional,0.2,298,0.1,150,-0.04000000000000001,par_de_28,MLPD
+24f53847-55cf-48ad-8117-428cec5ffb3d,160,Dresden II – Bautzen II,914,Sachsen,congressional,NA,NA,0.2,424,NA,par_de_39,Humanisten
 24f53847-55cf-48ad-8117-428cec5ffb3d,160,Dresden II – Bautzen II,914,Sachsen,congressional,NA,NA,0.1,128,NA,par_de_27,DKP
 24f53847-55cf-48ad-8117-428cec5ffb3d,160,Dresden II – Bautzen II,914,Sachsen,congressional,NA,NA,0.1,226,-0.12,par_de_75,V-Partei³
+24f53847-55cf-48ad-8117-428cec5ffb3d,160,Dresden II – Bautzen II,914,Sachsen,congressional,NA,NA,0.1,256,NA,par_de_16,Bündnis C
+24f53847-55cf-48ad-8117-428cec5ffb3d,160,Dresden II – Bautzen II,914,Sachsen,congressional,0.2,298,0.1,150,-0.04000000000000001,par_de_28,MLPD
 24f53847-55cf-48ad-8117-428cec5ffb3d,160,Dresden II – Bautzen II,914,Sachsen,congressional,0.1,210,NA,NA,NA,par_de_70,BüSo
 2b3ec817-75b0-49b1-bd4a-aa41c9f0d3e6,159,Dresden I,914,Sachsen,congressional,14.6,26272,19,34125,8.37,par_de_1,SPD
 2b3ec817-75b0-49b1-bd4a-aa41c9f0d3e6,159,Dresden I,914,Sachsen,congressional,18.8,33779,17.9,32122,-5.190000000000001,par_de_6,AfD
@@ -3481,6 +3643,26 @@ cc004b09-41c0-47da-bb2a-0bc327627492,105,Mettmann II,905,Nordrhein-Westfalen,con
 3defba04-2ddd-45d0-bcae-458d60d83e4f,102,Wuppertal I,905,Nordrhein-Westfalen,congressional,NA,NA,0.1,78,NA,par_de_77,du.
 3defba04-2ddd-45d0-bcae-458d60d83e4f,102,Wuppertal I,905,Nordrhein-Westfalen,congressional,NA,NA,0,58,NA,par_de_27,DKP
 3defba04-2ddd-45d0-bcae-458d60d83e4f,102,Wuppertal I,905,Nordrhein-Westfalen,congressional,NA,NA,0,30,-0.01,par_de_51,SGP
+8f86e7be-270e-4b00-a013-a88b1bea107f,101,Leverkusen – Köln IV,905,Nordrhein-Westfalen,congressional,45.6,69662,29.1,44586,1.990000000000002,par_de_1,SPD
+8f86e7be-270e-4b00-a013-a88b1bea107f,101,Leverkusen – Köln IV,905,Nordrhein-Westfalen,congressional,20.4,31197,21.7,33246,-6.390000000000001,par_de_2,CDU
+8f86e7be-270e-4b00-a013-a88b1bea107f,101,Leverkusen – Köln IV,905,Nordrhein-Westfalen,congressional,11.3,17290,19.2,29329,10.44,par_de_3,Grüne
+8f86e7be-270e-4b00-a013-a88b1bea107f,101,Leverkusen – Köln IV,905,Nordrhein-Westfalen,congressional,7.2,11050,10.4,15931,-1.7799999999999994,par_de_4,FDP
+8f86e7be-270e-4b00-a013-a88b1bea107f,101,Leverkusen – Köln IV,905,Nordrhein-Westfalen,congressional,7.1,10797,7.2,10966,-2.54,par_de_6,AfD
+8f86e7be-270e-4b00-a013-a88b1bea107f,101,Leverkusen – Köln IV,905,Nordrhein-Westfalen,congressional,3.7,5657,4.8,7318,-4.489999999999999,par_de_5,Linke
+8f86e7be-270e-4b00-a013-a88b1bea107f,101,Leverkusen – Köln IV,905,Nordrhein-Westfalen,congressional,1.8,2782,1.4,2076,0.029999999999999805,par_de_13,Die Partei
+8f86e7be-270e-4b00-a013-a88b1bea107f,101,Leverkusen – Köln IV,905,Nordrhein-Westfalen,congressional,NA,NA,1.4,2081,0.6499999999999999,par_de_12,Tierschutzpartei
+8f86e7be-270e-4b00-a013-a88b1bea107f,101,Leverkusen – Köln IV,905,Nordrhein-Westfalen,congressional,1,1479,0.6,918,0.36,par_de_7,Freie Wähler
+8f86e7be-270e-4b00-a013-a88b1bea107f,101,Leverkusen – Köln IV,905,Nordrhein-Westfalen,congressional,NA,NA,0.4,664,-0.09999999999999998,par_de_9,Piraten
+8f86e7be-270e-4b00-a013-a88b1bea107f,101,Leverkusen – Köln IV,905,Nordrhein-Westfalen,congressional,0.1,212,0.1,96,-0.03,par_de_28,MLPD
+8f86e7be-270e-4b00-a013-a88b1bea107f,101,Leverkusen – Köln IV,905,Nordrhein-Westfalen,congressional,NA,NA,0.1,216,0.020000000000000004,par_de_42,Gesundheitsforschung
+8f86e7be-270e-4b00-a013-a88b1bea107f,101,Leverkusen – Köln IV,905,Nordrhein-Westfalen,congressional,NA,NA,0.1,100,NA,par_de_16,Bündnis C
+8f86e7be-270e-4b00-a013-a88b1bea107f,101,Leverkusen – Köln IV,905,Nordrhein-Westfalen,congressional,NA,NA,0.1,124,0.020000000000000004,par_de_39,Humanisten
+8f86e7be-270e-4b00-a013-a88b1bea107f,101,Leverkusen – Köln IV,905,Nordrhein-Westfalen,congressional,NA,NA,0.1,98,NA,par_de_77,du.
+8f86e7be-270e-4b00-a013-a88b1bea107f,101,Leverkusen – Köln IV,905,Nordrhein-Westfalen,congressional,NA,NA,0.1,112,0,par_de_14,ÖDP
+8f86e7be-270e-4b00-a013-a88b1bea107f,101,Leverkusen – Köln IV,905,Nordrhein-Westfalen,congressional,NA,NA,0.1,123,-0.13,par_de_11,NPD
+8f86e7be-270e-4b00-a013-a88b1bea107f,101,Leverkusen – Köln IV,905,Nordrhein-Westfalen,congressional,NA,NA,0.1,139,-0.03,par_de_75,V-Partei³
+8f86e7be-270e-4b00-a013-a88b1bea107f,101,Leverkusen – Köln IV,905,Nordrhein-Westfalen,congressional,NA,NA,0,24,-0.02,par_de_51,SGP
+8f86e7be-270e-4b00-a013-a88b1bea107f,101,Leverkusen – Köln IV,905,Nordrhein-Westfalen,congressional,NA,NA,0,36,NA,par_de_27,DKP
 15028c9e-1cf8-4438-99cd-66d82c7500cf,100,Rheinisch-Bergischer Kreis,905,Nordrhein-Westfalen,congressional,30,52680,27.4,48268,-8.200000000000003,par_de_2,CDU
 15028c9e-1cf8-4438-99cd-66d82c7500cf,100,Rheinisch-Bergischer Kreis,905,Nordrhein-Westfalen,congressional,22.7,39869,25.2,44354,4.210000000000001,par_de_1,SPD
 15028c9e-1cf8-4438-99cd-66d82c7500cf,100,Rheinisch-Bergischer Kreis,905,Nordrhein-Westfalen,congressional,18,31607,18.4,32302,9.37,par_de_3,Grüne
@@ -3581,6 +3763,26 @@ e61309fd-2f7d-4c29-8af1-c402c0022963,97,Rhein-Sieg-Kreis I,905,Nordrhein-Westfal
 4ef43ee1-d356-43ec-9734-ec3aed026f17,96,Bonn,905,Nordrhein-Westfalen,congressional,NA,NA,0,68,NA,par_de_77,du.
 4ef43ee1-d356-43ec-9734-ec3aed026f17,96,Bonn,905,Nordrhein-Westfalen,congressional,0.1,138,0,57,-0.05,par_de_28,MLPD
 4ef43ee1-d356-43ec-9734-ec3aed026f17,96,Bonn,905,Nordrhein-Westfalen,congressional,NA,NA,0,47,NA,par_de_27,DKP
+02a571fc-7a43-4c26-b4b0-b2d413c98f4b,93,Köln I,905,Nordrhein-Westfalen,congressional,27.9,38985,26.4,36933,2.1199999999999974,par_de_1,SPD
+02a571fc-7a43-4c26-b4b0-b2d413c98f4b,93,Köln I,905,Nordrhein-Westfalen,congressional,23.9,33405,23.9,33501,12.499999999999998,par_de_3,Grüne
+02a571fc-7a43-4c26-b4b0-b2d413c98f4b,93,Köln I,905,Nordrhein-Westfalen,congressional,22.6,31636,19.8,27695,-6.579999999999998,par_de_2,CDU
+02a571fc-7a43-4c26-b4b0-b2d413c98f4b,93,Köln I,905,Nordrhein-Westfalen,congressional,8.2,11490,10.7,15040,-2.33,par_de_4,FDP
+02a571fc-7a43-4c26-b4b0-b2d413c98f4b,93,Köln I,905,Nordrhein-Westfalen,congressional,6.3,8789,6,8363,-2.869999999999999,par_de_6,AfD
+02a571fc-7a43-4c26-b4b0-b2d413c98f4b,93,Köln I,905,Nordrhein-Westfalen,congressional,5.2,7213,5.9,8267,-5.119999999999999,par_de_5,Linke
+02a571fc-7a43-4c26-b4b0-b2d413c98f4b,93,Köln I,905,Nordrhein-Westfalen,congressional,NA,NA,1.2,1704,0.42999999999999994,par_de_12,Tierschutzpartei
+02a571fc-7a43-4c26-b4b0-b2d413c98f4b,93,Köln I,905,Nordrhein-Westfalen,congressional,2,2768,1.1,1607,-0.27,par_de_13,Die Partei
+02a571fc-7a43-4c26-b4b0-b2d413c98f4b,93,Köln I,905,Nordrhein-Westfalen,congressional,0.8,1108,0.5,753,0.24,par_de_7,Freie Wähler
+02a571fc-7a43-4c26-b4b0-b2d413c98f4b,93,Köln I,905,Nordrhein-Westfalen,congressional,NA,NA,0.4,548,-0.09999999999999998,par_de_9,Piraten
+02a571fc-7a43-4c26-b4b0-b2d413c98f4b,93,Köln I,905,Nordrhein-Westfalen,congressional,NA,NA,0.1,88,-0.01999999999999999,par_de_14,ÖDP
+02a571fc-7a43-4c26-b4b0-b2d413c98f4b,93,Köln I,905,Nordrhein-Westfalen,congressional,NA,NA,0.1,116,NA,par_de_77,du.
+02a571fc-7a43-4c26-b4b0-b2d413c98f4b,93,Köln I,905,Nordrhein-Westfalen,congressional,NA,NA,0.1,152,-0.009999999999999995,par_de_39,Humanisten
+02a571fc-7a43-4c26-b4b0-b2d413c98f4b,93,Köln I,905,Nordrhein-Westfalen,congressional,NA,NA,0.1,127,-0.009999999999999995,par_de_42,Gesundheitsforschung
+02a571fc-7a43-4c26-b4b0-b2d413c98f4b,93,Köln I,905,Nordrhein-Westfalen,congressional,NA,NA,0.1,72,NA,par_de_16,Bündnis C
+02a571fc-7a43-4c26-b4b0-b2d413c98f4b,93,Köln I,905,Nordrhein-Westfalen,congressional,NA,NA,0.1,76,-0.06,par_de_11,NPD
+02a571fc-7a43-4c26-b4b0-b2d413c98f4b,93,Köln I,905,Nordrhein-Westfalen,congressional,NA,NA,0.1,109,-0.03,par_de_75,V-Partei³
+02a571fc-7a43-4c26-b4b0-b2d413c98f4b,93,Köln I,905,Nordrhein-Westfalen,congressional,NA,NA,0,15,-0.01,par_de_51,SGP
+02a571fc-7a43-4c26-b4b0-b2d413c98f4b,93,Köln I,905,Nordrhein-Westfalen,congressional,0.1,181,0,64,-0.11,par_de_28,MLPD
+02a571fc-7a43-4c26-b4b0-b2d413c98f4b,93,Köln I,905,Nordrhein-Westfalen,congressional,NA,NA,0,43,NA,par_de_27,DKP
 1f550d89-9e52-4e8d-a503-fbfb9dbe4780,92,Euskirchen – Rhein-Erft-Kreis II,905,Nordrhein-Westfalen,congressional,34.6,65979,30.4,58085,-5.32,par_de_2,CDU
 1f550d89-9e52-4e8d-a503-fbfb9dbe4780,92,Euskirchen – Rhein-Erft-Kreis II,905,Nordrhein-Westfalen,congressional,26.6,50790,26.6,50951,3.240000000000002,par_de_1,SPD
 1f550d89-9e52-4e8d-a503-fbfb9dbe4780,92,Euskirchen – Rhein-Erft-Kreis II,905,Nordrhein-Westfalen,congressional,13.1,25005,13.7,26165,7.02,par_de_3,Grüne
@@ -3661,6 +3863,26 @@ e61309fd-2f7d-4c29-8af1-c402c0022963,97,Rhein-Sieg-Kreis I,905,Nordrhein-Westfal
 4b8a9302-439c-44e7-bc96-7cb8f43e0bbe,89,Heinsberg,905,Nordrhein-Westfalen,congressional,NA,NA,0,70,NA,par_de_77,du.
 4b8a9302-439c-44e7-bc96-7cb8f43e0bbe,89,Heinsberg,905,Nordrhein-Westfalen,congressional,NA,NA,0,10,NA,par_de_27,DKP
 4b8a9302-439c-44e7-bc96-7cb8f43e0bbe,89,Heinsberg,905,Nordrhein-Westfalen,congressional,NA,NA,0,18,-0.03,par_de_28,MLPD
+d5b4072b-ba5d-4788-b472-c29181b80414,88,Aachen II,905,Nordrhein-Westfalen,congressional,34.5,58186,31.6,53405,-3.6799999999999997,par_de_1,SPD
+d5b4072b-ba5d-4788-b472-c29181b80414,88,Aachen II,905,Nordrhein-Westfalen,congressional,32.5,54809,29.5,49839,-1.1799999999999997,par_de_2,CDU
+d5b4072b-ba5d-4788-b472-c29181b80414,88,Aachen II,905,Nordrhein-Westfalen,congressional,11.8,19973,11.8,19916,6.880000000000001,par_de_3,Grüne
+d5b4072b-ba5d-4788-b472-c29181b80414,88,Aachen II,905,Nordrhein-Westfalen,congressional,7.1,12055,10.6,17893,-0.5999999999999996,par_de_4,FDP
+d5b4072b-ba5d-4788-b472-c29181b80414,88,Aachen II,905,Nordrhein-Westfalen,congressional,7.5,12632,7.3,12408,-1.3600000000000003,par_de_6,AfD
+d5b4072b-ba5d-4788-b472-c29181b80414,88,Aachen II,905,Nordrhein-Westfalen,congressional,2.7,4495,3.1,5260,-2.7899999999999996,par_de_5,Linke
+d5b4072b-ba5d-4788-b472-c29181b80414,88,Aachen II,905,Nordrhein-Westfalen,congressional,NA,NA,1.5,2524,0.76,par_de_12,Tierschutzpartei
+d5b4072b-ba5d-4788-b472-c29181b80414,88,Aachen II,905,Nordrhein-Westfalen,congressional,1.7,2892,0.9,1584,0.42000000000000004,par_de_13,Die Partei
+d5b4072b-ba5d-4788-b472-c29181b80414,88,Aachen II,905,Nordrhein-Westfalen,congressional,1.2,2034,0.7,1131,0.49999999999999994,par_de_7,Freie Wähler
+d5b4072b-ba5d-4788-b472-c29181b80414,88,Aachen II,905,Nordrhein-Westfalen,congressional,NA,NA,0.4,613,-0.06999999999999995,par_de_9,Piraten
+d5b4072b-ba5d-4788-b472-c29181b80414,88,Aachen II,905,Nordrhein-Westfalen,congressional,NA,NA,0.1,188,0.03,par_de_42,Gesundheitsforschung
+d5b4072b-ba5d-4788-b472-c29181b80414,88,Aachen II,905,Nordrhein-Westfalen,congressional,NA,NA,0.1,190,-0.15,par_de_11,NPD
+d5b4072b-ba5d-4788-b472-c29181b80414,88,Aachen II,905,Nordrhein-Westfalen,congressional,NA,NA,0.1,85,0.03,par_de_75,V-Partei³
+d5b4072b-ba5d-4788-b472-c29181b80414,88,Aachen II,905,Nordrhein-Westfalen,congressional,NA,NA,0.1,196,-0.18000000000000002,par_de_14,ÖDP
+d5b4072b-ba5d-4788-b472-c29181b80414,88,Aachen II,905,Nordrhein-Westfalen,congressional,NA,NA,0.1,113,0.05,par_de_39,Humanisten
+d5b4072b-ba5d-4788-b472-c29181b80414,88,Aachen II,905,Nordrhein-Westfalen,congressional,NA,NA,0,21,NA,par_de_27,DKP
+d5b4072b-ba5d-4788-b472-c29181b80414,88,Aachen II,905,Nordrhein-Westfalen,congressional,NA,NA,0,43,NA,par_de_16,Bündnis C
+d5b4072b-ba5d-4788-b472-c29181b80414,88,Aachen II,905,Nordrhein-Westfalen,congressional,NA,NA,0,23,-0.03,par_de_28,MLPD
+d5b4072b-ba5d-4788-b472-c29181b80414,88,Aachen II,905,Nordrhein-Westfalen,congressional,NA,NA,0,21,NA,par_de_51,SGP
+d5b4072b-ba5d-4788-b472-c29181b80414,88,Aachen II,905,Nordrhein-Westfalen,congressional,NA,NA,0,74,NA,par_de_77,du.
 fb7c58ad-75d1-48c7-ba0b-75949bfdaf76,74,Mansfeld,915,Sachsen-Anhalt,congressional,23.6,30972,24.4,32097,10.019999999999998,par_de_1,SPD
 fb7c58ad-75d1-48c7-ba0b-75949bfdaf76,74,Mansfeld,915,Sachsen-Anhalt,congressional,25.1,32933,23.9,31474,-0.010000000000001563,par_de_6,AfD
 fb7c58ad-75d1-48c7-ba0b-75949bfdaf76,74,Mansfeld,915,Sachsen-Anhalt,congressional,24.9,32731,21.6,28411,-7.219999999999999,par_de_2,CDU
@@ -3773,6 +3995,22 @@ bda3c86a-0100-4fa8-ab20-91b22f253748,69,Magdeburg,915,Sachsen-Anhalt,congression
 0fa32a88-46f3-4200-b4c9-3372555017b3,68,Harz,915,Sachsen-Anhalt,congressional,NA,NA,0.1,119,NA,par_de_77,du.
 0fa32a88-46f3-4200-b4c9-3372555017b3,68,Harz,915,Sachsen-Anhalt,congressional,NA,NA,0.1,91,-0.03,par_de_28,MLPD
 0fa32a88-46f3-4200-b4c9-3372555017b3,68,Harz,915,Sachsen-Anhalt,congressional,NA,NA,0.1,129,NA,par_de_39,Humanisten
+dad96695-8cd7-4b19-9bb6-154719f56675,67,Börde – Jerichower Land,915,Sachsen-Anhalt,congressional,26.2,38520,26.6,39042,10.360000000000003,par_de_1,SPD
+dad96695-8cd7-4b19-9bb6-154719f56675,67,Börde – Jerichower Land,915,Sachsen-Anhalt,congressional,25,36641,22.3,32720,-9.819999999999997,par_de_2,CDU
+dad96695-8cd7-4b19-9bb6-154719f56675,67,Börde – Jerichower Land,915,Sachsen-Anhalt,congressional,20.3,29843,20.1,29603,1.2600000000000016,par_de_6,AfD
+dad96695-8cd7-4b19-9bb6-154719f56675,67,Börde – Jerichower Land,915,Sachsen-Anhalt,congressional,8.1,11816,9.2,13588,1.4899999999999993,par_de_4,FDP
+dad96695-8cd7-4b19-9bb6-154719f56675,67,Börde – Jerichower Land,915,Sachsen-Anhalt,congressional,8.7,12795,8.5,12426,-8.079999999999998,par_de_5,Linke
+dad96695-8cd7-4b19-9bb6-154719f56675,67,Börde – Jerichower Land,915,Sachsen-Anhalt,congressional,4.2,6184,4.9,7268,2.0400000000000005,par_de_3,Grüne
+dad96695-8cd7-4b19-9bb6-154719f56675,67,Börde – Jerichower Land,915,Sachsen-Anhalt,congressional,2.5,3704,1.9,2736,0.5,par_de_7,Freie Wähler
+dad96695-8cd7-4b19-9bb6-154719f56675,67,Börde – Jerichower Land,915,Sachsen-Anhalt,congressional,2.1,3012,1.3,1906,-0.1399999999999999,par_de_55,Tierschutzallianz
+dad96695-8cd7-4b19-9bb6-154719f56675,67,Börde – Jerichower Land,915,Sachsen-Anhalt,congressional,1.3,1970,1.3,1968,NA,par_de_12,Tierschutzpartei
+dad96695-8cd7-4b19-9bb6-154719f56675,67,Börde – Jerichower Land,915,Sachsen-Anhalt,congressional,NA,NA,0.8,1130,-0.08999999999999997,par_de_13,Die Partei
+dad96695-8cd7-4b19-9bb6-154719f56675,67,Börde – Jerichower Land,915,Sachsen-Anhalt,congressional,NA,NA,0.3,372,-0.6000000000000001,par_de_11,NPD
+dad96695-8cd7-4b19-9bb6-154719f56675,67,Börde – Jerichower Land,915,Sachsen-Anhalt,congressional,NA,NA,0.3,454,NA,par_de_9,Piraten
+dad96695-8cd7-4b19-9bb6-154719f56675,67,Börde – Jerichower Land,915,Sachsen-Anhalt,congressional,NA,NA,0.1,136,NA,par_de_39,Humanisten
+dad96695-8cd7-4b19-9bb6-154719f56675,67,Börde – Jerichower Land,915,Sachsen-Anhalt,congressional,NA,NA,0.1,74,NA,par_de_14,ÖDP
+dad96695-8cd7-4b19-9bb6-154719f56675,67,Börde – Jerichower Land,915,Sachsen-Anhalt,congressional,NA,NA,0.1,177,NA,par_de_77,du.
+dad96695-8cd7-4b19-9bb6-154719f56675,67,Börde – Jerichower Land,915,Sachsen-Anhalt,congressional,NA,NA,0.1,118,0,par_de_28,MLPD
 ca197f05-511c-4c56-b298-34b8174ae55f,66,Altmark,915,Sachsen-Anhalt,congressional,27.5,29594,27.4,29540,10.36,par_de_1,SPD
 ca197f05-511c-4c56-b298-34b8174ae55f,66,Altmark,915,Sachsen-Anhalt,congressional,21.8,23431,20.9,22567,-11.89,par_de_2,CDU
 ca197f05-511c-4c56-b298-34b8174ae55f,66,Altmark,915,Sachsen-Anhalt,congressional,19.4,20875,19.1,20630,2.330000000000002,par_de_6,AfD
@@ -3924,6 +4162,52 @@ bc25fd7e-efd7-45e8-bad8-864471fc8b06,57,Uckermark – Barnim I,912,Brandenburg,c
 bc25fd7e-efd7-45e8-bad8-864471fc8b06,57,Uckermark – Barnim I,912,Brandenburg,congressional,NA,NA,0.1,131,NA,par_de_39,Humanisten
 bc25fd7e-efd7-45e8-bad8-864471fc8b06,57,Uckermark – Barnim I,912,Brandenburg,congressional,NA,NA,0.1,179,NA,par_de_27,DKP
 bc25fd7e-efd7-45e8-bad8-864471fc8b06,57,Uckermark – Barnim I,912,Brandenburg,congressional,NA,NA,0,61,-0.07,par_de_28,MLPD
+f44b9259-8aa7-412a-acb5-e855f340ffc9,56,Prignitz – Ostprignitz-Ruppin – Havelland I,912,Brandenburg,congressional,33,39853,34,41162,12.98,par_de_1,SPD
+f44b9259-8aa7-412a-acb5-e855f340ffc9,56,Prignitz – Ostprignitz-Ruppin – Havelland I,912,Brandenburg,congressional,19.7,23798,19.2,23220,0.46999999999999886,par_de_6,AfD
+f44b9259-8aa7-412a-acb5-e855f340ffc9,56,Prignitz – Ostprignitz-Ruppin – Havelland I,912,Brandenburg,congressional,19.4,23433,16,19416,-13.739999999999998,par_de_2,CDU
+f44b9259-8aa7-412a-acb5-e855f340ffc9,56,Prignitz – Ostprignitz-Ruppin – Havelland I,912,Brandenburg,congressional,9,10846,8.1,9754,-8.320000000000002,par_de_5,Linke
+f44b9259-8aa7-412a-acb5-e855f340ffc9,56,Prignitz – Ostprignitz-Ruppin – Havelland I,912,Brandenburg,congressional,6.1,7354,7.5,9071,1.96,par_de_4,FDP
+f44b9259-8aa7-412a-acb5-e855f340ffc9,56,Prignitz – Ostprignitz-Ruppin – Havelland I,912,Brandenburg,congressional,4.7,5623,6.3,7677,2.73,par_de_3,Grüne
+f44b9259-8aa7-412a-acb5-e855f340ffc9,56,Prignitz – Ostprignitz-Ruppin – Havelland I,912,Brandenburg,congressional,3.8,4549,2.5,3062,1.51,par_de_7,Freie Wähler
+f44b9259-8aa7-412a-acb5-e855f340ffc9,56,Prignitz – Ostprignitz-Ruppin – Havelland I,912,Brandenburg,congressional,NA,NA,2.1,2556,0.8900000000000001,par_de_12,Tierschutzpartei
+f44b9259-8aa7-412a-acb5-e855f340ffc9,56,Prignitz – Ostprignitz-Ruppin – Havelland I,912,Brandenburg,congressional,1.8,2181,1.1,1371,0.09000000000000008,par_de_13,Die Partei
+f44b9259-8aa7-412a-acb5-e855f340ffc9,56,Prignitz – Ostprignitz-Ruppin – Havelland I,912,Brandenburg,congressional,NA,NA,0.4,473,-0.45999999999999996,par_de_11,NPD
+f44b9259-8aa7-412a-acb5-e855f340ffc9,56,Prignitz – Ostprignitz-Ruppin – Havelland I,912,Brandenburg,congressional,0.5,636,0.4,485,NA,par_de_9,Piraten
+f44b9259-8aa7-412a-acb5-e855f340ffc9,56,Prignitz – Ostprignitz-Ruppin – Havelland I,912,Brandenburg,congressional,NA,NA,0.1,86,-0.07999999999999999,par_de_28,MLPD
+f44b9259-8aa7-412a-acb5-e855f340ffc9,56,Prignitz – Ostprignitz-Ruppin – Havelland I,912,Brandenburg,congressional,NA,NA,0.1,82,NA,par_de_27,DKP
+f44b9259-8aa7-412a-acb5-e855f340ffc9,56,Prignitz – Ostprignitz-Ruppin – Havelland I,912,Brandenburg,congressional,NA,NA,0.1,111,-0.03,par_de_14,ÖDP
+f44b9259-8aa7-412a-acb5-e855f340ffc9,56,Prignitz – Ostprignitz-Ruppin – Havelland I,912,Brandenburg,congressional,NA,NA,0.1,112,NA,par_de_39,Humanisten
+be0701cb-af6f-4568-8de6-a97594d0f607,55,Bremen II – Bremerhaven,904,Bremen,congressional,37,52274,34.8,49464,5.189999999999998,par_de_1,SPD
+be0701cb-af6f-4568-8de6-a97594d0f607,55,Bremen II – Bremerhaven,904,Bremen,congressional,20.1,28384,16.9,23996,-7.050000000000001,par_de_2,CDU
+be0701cb-af6f-4568-8de6-a97594d0f607,55,Bremen II – Bremerhaven,904,Bremen,congressional,14.6,20700,16.8,23869,7.780000000000001,par_de_3,Grüne
+be0701cb-af6f-4568-8de6-a97594d0f607,55,Bremen II – Bremerhaven,904,Bremen,congressional,8.8,12510,8.9,12688,-3.2300000000000004,par_de_6,AfD
+be0701cb-af6f-4568-8de6-a97594d0f607,55,Bremen II – Bremerhaven,904,Bremen,congressional,6,8453,8.5,12057,0.33000000000000007,par_de_4,FDP
+be0701cb-af6f-4568-8de6-a97594d0f607,55,Bremen II – Bremerhaven,904,Bremen,congressional,7.4,10523,6.7,9524,-5.7700000000000005,par_de_5,Linke
+be0701cb-af6f-4568-8de6-a97594d0f607,55,Bremen II – Bremerhaven,904,Bremen,congressional,NA,NA,1.7,2376,NA,par_de_12,Tierschutzpartei
+be0701cb-af6f-4568-8de6-a97594d0f607,55,Bremen II – Bremerhaven,904,Bremen,congressional,1.8,2614,1.4,1918,-0.26,par_de_13,Die Partei
+be0701cb-af6f-4568-8de6-a97594d0f607,55,Bremen II – Bremerhaven,904,Bremen,congressional,1.3,1788,1,1416,0.52,par_de_7,Freie Wähler
+be0701cb-af6f-4568-8de6-a97594d0f607,55,Bremen II – Bremerhaven,904,Bremen,congressional,0.4,605,0.2,266,-0.08999999999999997,par_de_75,V-Partei³
+be0701cb-af6f-4568-8de6-a97594d0f607,55,Bremen II – Bremerhaven,904,Bremen,congressional,0.3,494,0.2,264,NA,par_de_39,Humanisten
+be0701cb-af6f-4568-8de6-a97594d0f607,55,Bremen II – Bremerhaven,904,Bremen,congressional,0.1,121,0.1,76,0.020000000000000004,par_de_28,MLPD
+be0701cb-af6f-4568-8de6-a97594d0f607,55,Bremen II – Bremerhaven,904,Bremen,congressional,0.3,387,0.1,195,NA,par_de_14,ÖDP
+be0701cb-af6f-4568-8de6-a97594d0f607,55,Bremen II – Bremerhaven,904,Bremen,congressional,NA,NA,0.1,191,-0.30999999999999994,par_de_11,NPD
+be0701cb-af6f-4568-8de6-a97594d0f607,55,Bremen II – Bremerhaven,904,Bremen,congressional,NA,NA,0.1,206,-0.24999999999999997,par_de_34,Menschliche Welt
+be0701cb-af6f-4568-8de6-a97594d0f607,55,Bremen II – Bremerhaven,904,Bremen,congressional,0.6,859,NA,NA,NA,par_de_9,Piraten
+32be7471-e9db-4341-af98-606dc61ffc3f,54,Bremen I,904,Bremen,congressional,30.2,55946,28.9,53524,4.359999999999999,par_de_1,SPD
+32be7471-e9db-4341-af98-606dc61ffc3f,54,Bremen I,904,Bremen,congressional,21.5,39704,23.9,44297,11.249999999999998,par_de_3,Grüne
+32be7471-e9db-4341-af98-606dc61ffc3f,54,Bremen I,904,Bremen,congressional,21.4,39488,17.5,32435,-8.5,par_de_2,CDU
+32be7471-e9db-4341-af98-606dc61ffc3f,54,Bremen I,904,Bremen,congressional,7.5,13900,9.9,18349,-0.3699999999999992,par_de_4,FDP
+32be7471-e9db-4341-af98-606dc61ffc3f,54,Bremen I,904,Bremen,congressional,8.3,15321,8.5,15765,-5.68,par_de_5,Linke
+32be7471-e9db-4341-af98-606dc61ffc3f,54,Bremen I,904,Bremen,congressional,4.9,9118,5.3,9866,-3.04,par_de_6,AfD
+32be7471-e9db-4341-af98-606dc61ffc3f,54,Bremen I,904,Bremen,congressional,1.3,2428,1.1,2130,NA,par_de_12,Tierschutzpartei
+32be7471-e9db-4341-af98-606dc61ffc3f,54,Bremen I,904,Bremen,congressional,1.5,2830,1.1,1970,-0.5599999999999998,par_de_13,Die Partei
+32be7471-e9db-4341-af98-606dc61ffc3f,54,Bremen I,904,Bremen,congressional,1,1863,0.8,1491,0.54,par_de_7,Freie Wähler
+32be7471-e9db-4341-af98-606dc61ffc3f,54,Bremen I,904,Bremen,congressional,0.3,518,0.2,330,NA,par_de_39,Humanisten
+32be7471-e9db-4341-af98-606dc61ffc3f,54,Bremen I,904,Bremen,congressional,NA,NA,0.1,183,-0.10999999999999999,par_de_34,Menschliche Welt
+32be7471-e9db-4341-af98-606dc61ffc3f,54,Bremen I,904,Bremen,congressional,NA,NA,0.1,243,-0.22,par_de_75,V-Partei³
+32be7471-e9db-4341-af98-606dc61ffc3f,54,Bremen I,904,Bremen,congressional,0.2,320,0.1,209,NA,par_de_14,ÖDP
+32be7471-e9db-4341-af98-606dc61ffc3f,54,Bremen I,904,Bremen,congressional,NA,NA,0.1,99,-0.04000000000000001,par_de_11,NPD
+32be7471-e9db-4341-af98-606dc61ffc3f,54,Bremen I,904,Bremen,congressional,0.1,153,0,84,-0.08,par_de_28,MLPD
 37035462-f318-444c-84f9-a13b257dbe78,53,Göttingen,903,Niedersachsen,congressional,32.2,51386,31.9,51181,3.629999999999999,par_de_1,SPD
 37035462-f318-444c-84f9-a13b257dbe78,53,Göttingen,903,Niedersachsen,congressional,26.9,42955,21.6,34587,-8.619999999999997,par_de_2,CDU
 37035462-f318-444c-84f9-a13b257dbe78,53,Göttingen,903,Niedersachsen,congressional,23.2,37058,20.2,32447,8.58,par_de_3,Grüne
@@ -4230,6 +4514,23 @@ d2746dff-ad8e-4c22-b723-903e1fc19f28,36,Harburg,903,Niedersachsen,congressional,
 d2746dff-ad8e-4c22-b723-903e1fc19f28,36,Harburg,903,Niedersachsen,congressional,NA,NA,0.1,138,-0.12,par_de_11,NPD
 d2746dff-ad8e-4c22-b723-903e1fc19f28,36,Harburg,903,Niedersachsen,congressional,NA,NA,0,23,NA,par_de_27,DKP
 d2746dff-ad8e-4c22-b723-903e1fc19f28,36,Harburg,903,Niedersachsen,congressional,NA,NA,0,23,-0.02,par_de_28,MLPD
+25527027-072e-4404-be68-9071efdb3122,35,Rotenburg I – Heidekreis,903,Niedersachsen,congressional,47.6,59127,34.8,43196,7.669999999999998,par_de_1,SPD
+25527027-072e-4404-be68-9071efdb3122,35,Rotenburg I – Heidekreis,903,Niedersachsen,congressional,26.4,32716,25.1,31115,-12.61,par_de_2,CDU
+25527027-072e-4404-be68-9071efdb3122,35,Rotenburg I – Heidekreis,903,Niedersachsen,congressional,8.1,10035,13.6,16856,5.619999999999999,par_de_3,Grüne
+25527027-072e-4404-be68-9071efdb3122,35,Rotenburg I – Heidekreis,903,Niedersachsen,congressional,5.9,7353,10.1,12526,1.6199999999999992,par_de_4,FDP
+25527027-072e-4404-be68-9071efdb3122,35,Rotenburg I – Heidekreis,903,Niedersachsen,congressional,7.4,9181,8,9944,-1.2599999999999998,par_de_6,AfD
+25527027-072e-4404-be68-9071efdb3122,35,Rotenburg I – Heidekreis,903,Niedersachsen,congressional,2.4,3010,2.8,3536,-3.09,par_de_5,Linke
+25527027-072e-4404-be68-9071efdb3122,35,Rotenburg I – Heidekreis,903,Niedersachsen,congressional,NA,NA,1.4,1754,0.4899999999999999,par_de_12,Tierschutzpartei
+25527027-072e-4404-be68-9071efdb3122,35,Rotenburg I – Heidekreis,903,Niedersachsen,congressional,2.2,2734,1.2,1433,0.59,par_de_7,Freie Wähler
+25527027-072e-4404-be68-9071efdb3122,35,Rotenburg I – Heidekreis,903,Niedersachsen,congressional,NA,NA,0.9,1057,0.20000000000000007,par_de_13,Die Partei
+25527027-072e-4404-be68-9071efdb3122,35,Rotenburg I – Heidekreis,903,Niedersachsen,congressional,NA,NA,0.4,444,0.09000000000000002,par_de_9,Piraten
+25527027-072e-4404-be68-9071efdb3122,35,Rotenburg I – Heidekreis,903,Niedersachsen,congressional,NA,NA,0.1,185,-0.24999999999999997,par_de_11,NPD
+25527027-072e-4404-be68-9071efdb3122,35,Rotenburg I – Heidekreis,903,Niedersachsen,congressional,NA,NA,0.1,90,-0.009999999999999995,par_de_75,V-Partei³
+25527027-072e-4404-be68-9071efdb3122,35,Rotenburg I – Heidekreis,903,Niedersachsen,congressional,NA,NA,0.1,74,NA,par_de_77,du.
+25527027-072e-4404-be68-9071efdb3122,35,Rotenburg I – Heidekreis,903,Niedersachsen,congressional,NA,NA,0.1,94,NA,par_de_39,Humanisten
+25527027-072e-4404-be68-9071efdb3122,35,Rotenburg I – Heidekreis,903,Niedersachsen,congressional,NA,NA,0.1,107,0.010000000000000009,par_de_14,ÖDP
+25527027-072e-4404-be68-9071efdb3122,35,Rotenburg I – Heidekreis,903,Niedersachsen,congressional,NA,NA,0,14,-0.03,par_de_28,MLPD
+25527027-072e-4404-be68-9071efdb3122,35,Rotenburg I – Heidekreis,903,Niedersachsen,congressional,NA,NA,0,17,NA,par_de_27,DKP
 83536112-b977-4152-ac03-ae971734ea90,34,Osterholz – Verden,903,Niedersachsen,congressional,32.5,48548,32.9,49408,6.52,par_de_1,SPD
 83536112-b977-4152-ac03-ae971734ea90,34,Osterholz – Verden,903,Niedersachsen,congressional,33.7,50250,24.1,36169,-10.839999999999996,par_de_2,CDU
 83536112-b977-4152-ac03-ae971734ea90,34,Osterholz – Verden,903,Niedersachsen,congressional,14.7,21922,16.1,24171,6.840000000000002,par_de_3,Grüne
@@ -4534,6 +4835,21 @@ f710406e-2fd3-46da-ab11-4be40305996b,18,Hamburg-Mitte,902,Hamburg,congressional,
 8030a378-76e1-4f3e-85f3-f4c5a5ec960a,17,Mecklenburgische Seenplatte II – Landkreis Rostock III,913,Mecklenburg-Vorpommern,congressional,0.3,443,0.1,163,-0.04999999999999999,par_de_28,MLPD
 8030a378-76e1-4f3e-85f3-f4c5a5ec960a,17,Mecklenburgische Seenplatte II – Landkreis Rostock III,913,Mecklenburg-Vorpommern,congressional,NA,NA,0.1,140,NA,par_de_39,Humanisten
 8030a378-76e1-4f3e-85f3-f4c5a5ec960a,17,Mecklenburgische Seenplatte II – Landkreis Rostock III,913,Mecklenburg-Vorpommern,congressional,NA,NA,0.1,83,NA,par_de_27,DKP
+8cffbe1e-daa3-429a-a624-c380c2a5d6f7,16,Mecklenburgische Seenplatte I – Vorpommern-Greifswald II,913,Mecklenburg-Vorpommern,congressional,24.8,37395,26.7,40337,14.389999999999999,par_de_1,SPD
+8cffbe1e-daa3-429a-a624-c380c2a5d6f7,16,Mecklenburgische Seenplatte I – Vorpommern-Greifswald II,913,Mecklenburg-Vorpommern,congressional,24.3,36599,23.2,35102,0.21000000000000085,par_de_6,AfD
+8cffbe1e-daa3-429a-a624-c380c2a5d6f7,16,Mecklenburgische Seenplatte I – Vorpommern-Greifswald II,913,Mecklenburg-Vorpommern,congressional,20.7,31182,19,28684,-14.450000000000003,par_de_2,CDU
+8cffbe1e-daa3-429a-a624-c380c2a5d6f7,16,Mecklenburgische Seenplatte I – Vorpommern-Greifswald II,913,Mecklenburg-Vorpommern,congressional,10.8,16200,10.2,15367,-7.400000000000002,par_de_5,Linke
+8cffbe1e-daa3-429a-a624-c380c2a5d6f7,16,Mecklenburgische Seenplatte I – Vorpommern-Greifswald II,913,Mecklenburg-Vorpommern,congressional,7.4,11168,7.6,11438,2.01,par_de_4,FDP
+8cffbe1e-daa3-429a-a624-c380c2a5d6f7,16,Mecklenburgische Seenplatte I – Vorpommern-Greifswald II,913,Mecklenburg-Vorpommern,congressional,4.1,6112,4.4,6619,1.7700000000000005,par_de_3,Grüne
+8cffbe1e-daa3-429a-a624-c380c2a5d6f7,16,Mecklenburgische Seenplatte I – Vorpommern-Greifswald II,913,Mecklenburg-Vorpommern,congressional,3.2,4765,2.5,3801,1.24,par_de_12,Tierschutzpartei
+8cffbe1e-daa3-429a-a624-c380c2a5d6f7,16,Mecklenburgische Seenplatte I – Vorpommern-Greifswald II,913,Mecklenburg-Vorpommern,congressional,1.6,2459,1.4,2177,0.69,par_de_7,Freie Wähler
+8cffbe1e-daa3-429a-a624-c380c2a5d6f7,16,Mecklenburgische Seenplatte I – Vorpommern-Greifswald II,913,Mecklenburg-Vorpommern,congressional,NA,NA,1.3,2003,-0.7299999999999998,par_de_11,NPD
+8cffbe1e-daa3-429a-a624-c380c2a5d6f7,16,Mecklenburgische Seenplatte I – Vorpommern-Greifswald II,913,Mecklenburg-Vorpommern,congressional,NA,NA,0.7,1037,-0.17000000000000004,par_de_13,Die Partei
+8cffbe1e-daa3-429a-a624-c380c2a5d6f7,16,Mecklenburgische Seenplatte I – Vorpommern-Greifswald II,913,Mecklenburg-Vorpommern,congressional,NA,NA,0.3,519,NA,par_de_9,Piraten
+8cffbe1e-daa3-429a-a624-c380c2a5d6f7,16,Mecklenburgische Seenplatte I – Vorpommern-Greifswald II,913,Mecklenburg-Vorpommern,congressional,NA,NA,0.1,123,0.010000000000000009,par_de_14,ÖDP
+8cffbe1e-daa3-429a-a624-c380c2a5d6f7,16,Mecklenburgische Seenplatte I – Vorpommern-Greifswald II,913,Mecklenburg-Vorpommern,congressional,NA,NA,0.1,140,NA,par_de_27,DKP
+8cffbe1e-daa3-429a-a624-c380c2a5d6f7,16,Mecklenburgische Seenplatte I – Vorpommern-Greifswald II,913,Mecklenburg-Vorpommern,congressional,NA,NA,0.1,220,NA,par_de_39,Humanisten
+8cffbe1e-daa3-429a-a624-c380c2a5d6f7,16,Mecklenburgische Seenplatte I – Vorpommern-Greifswald II,913,Mecklenburg-Vorpommern,congressional,NA,NA,0.1,88,-0.009999999999999995,par_de_28,MLPD
 51896a5e-c6e1-4b4e-9c2c-384b96565358,15,Vorpommern-Rügen – Vorpommern-Greifswald I,913,Mecklenburg-Vorpommern,congressional,24.3,40426,25.1,41582,12.910000000000002,par_de_1,SPD
 51896a5e-c6e1-4b4e-9c2c-384b96565358,15,Vorpommern-Rügen – Vorpommern-Greifswald I,913,Mecklenburg-Vorpommern,congressional,19.9,33034,18.9,31314,-0.740000000000002,par_de_6,AfD
 51896a5e-c6e1-4b4e-9c2c-384b96565358,15,Vorpommern-Rügen – Vorpommern-Greifswald I,913,Mecklenburg-Vorpommern,congressional,20.4,33898,18.6,30911,-14.32,par_de_2,CDU
@@ -4549,6 +4865,36 @@ f710406e-2fd3-46da-ab11-4be40305996b,18,Hamburg-Mitte,902,Hamburg,congressional,
 51896a5e-c6e1-4b4e-9c2c-384b96565358,15,Vorpommern-Rügen – Vorpommern-Greifswald I,913,Mecklenburg-Vorpommern,congressional,0.1,229,0.1,131,-0.04999999999999999,par_de_28,MLPD
 51896a5e-c6e1-4b4e-9c2c-384b96565358,15,Vorpommern-Rügen – Vorpommern-Greifswald I,913,Mecklenburg-Vorpommern,congressional,NA,NA,0.1,150,NA,par_de_27,DKP
 51896a5e-c6e1-4b4e-9c2c-384b96565358,15,Vorpommern-Rügen – Vorpommern-Greifswald I,913,Mecklenburg-Vorpommern,congressional,NA,NA,0.1,203,-0.01999999999999999,par_de_14,ÖDP
+f99ed377-6874-41cf-8143-9e31cf08efee,14,Rostock – Landkreis Rostock II,913,Mecklenburg-Vorpommern,congressional,27,43935,29,47281,13.2,par_de_1,SPD
+f99ed377-6874-41cf-8143-9e31cf08efee,14,Rostock – Landkreis Rostock II,913,Mecklenburg-Vorpommern,congressional,17,27666,14.2,23106,-16.25,par_de_2,CDU
+f99ed377-6874-41cf-8143-9e31cf08efee,14,Rostock – Landkreis Rostock II,913,Mecklenburg-Vorpommern,congressional,18.2,29714,13.2,21490,-7.48,par_de_5,Linke
+f99ed377-6874-41cf-8143-9e31cf08efee,14,Rostock – Landkreis Rostock II,913,Mecklenburg-Vorpommern,congressional,10.2,16556,12.8,20942,6.500000000000001,par_de_3,Grüne
+f99ed377-6874-41cf-8143-9e31cf08efee,14,Rostock – Landkreis Rostock II,913,Mecklenburg-Vorpommern,congressional,12.2,19885,12.7,20660,-2.8100000000000005,par_de_6,AfD
+f99ed377-6874-41cf-8143-9e31cf08efee,14,Rostock – Landkreis Rostock II,913,Mecklenburg-Vorpommern,congressional,7.5,12242,9.1,14857,2.5299999999999994,par_de_4,FDP
+f99ed377-6874-41cf-8143-9e31cf08efee,14,Rostock – Landkreis Rostock II,913,Mecklenburg-Vorpommern,congressional,2.8,4486,2.4,3934,1.16,par_de_12,Tierschutzpartei
+f99ed377-6874-41cf-8143-9e31cf08efee,14,Rostock – Landkreis Rostock II,913,Mecklenburg-Vorpommern,congressional,NA,NA,1.2,2036,-0.3500000000000001,par_de_13,Die Partei
+f99ed377-6874-41cf-8143-9e31cf08efee,14,Rostock – Landkreis Rostock II,913,Mecklenburg-Vorpommern,congressional,1.3,2131,1.1,1867,0.5100000000000001,par_de_7,Freie Wähler
+f99ed377-6874-41cf-8143-9e31cf08efee,14,Rostock – Landkreis Rostock II,913,Mecklenburg-Vorpommern,congressional,0.8,1304,0.5,854,NA,par_de_9,Piraten
+f99ed377-6874-41cf-8143-9e31cf08efee,14,Rostock – Landkreis Rostock II,913,Mecklenburg-Vorpommern,congressional,NA,NA,0.4,696,-0.16000000000000003,par_de_11,NPD
+f99ed377-6874-41cf-8143-9e31cf08efee,14,Rostock – Landkreis Rostock II,913,Mecklenburg-Vorpommern,congressional,NA,NA,0.2,290,NA,par_de_39,Humanisten
+f99ed377-6874-41cf-8143-9e31cf08efee,14,Rostock – Landkreis Rostock II,913,Mecklenburg-Vorpommern,congressional,NA,NA,0.2,274,-0.01999999999999999,par_de_14,ÖDP
+f99ed377-6874-41cf-8143-9e31cf08efee,14,Rostock – Landkreis Rostock II,913,Mecklenburg-Vorpommern,congressional,0.2,356,0.1,152,-0.09,par_de_28,MLPD
+f99ed377-6874-41cf-8143-9e31cf08efee,14,Rostock – Landkreis Rostock II,913,Mecklenburg-Vorpommern,congressional,NA,NA,0.1,147,NA,par_de_27,DKP
+251460a1-bc3c-48f9-aa03-3eb92f538a15,13,Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I,913,Mecklenburg-Vorpommern,congressional,35.2,50705,32.5,46844,15.25,par_de_1,SPD
+251460a1-bc3c-48f9-aa03-3eb92f538a15,13,Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I,913,Mecklenburg-Vorpommern,congressional,17.2,24760,17.1,24670,-0.5999999999999979,par_de_6,AfD
+251460a1-bc3c-48f9-aa03-3eb92f538a15,13,Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I,913,Mecklenburg-Vorpommern,congressional,18.2,26209,17.1,24623,-16.559999999999995,par_de_2,CDU
+251460a1-bc3c-48f9-aa03-3eb92f538a15,13,Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I,913,Mecklenburg-Vorpommern,congressional,10.4,14949,10.4,14973,-6.42,par_de_5,Linke
+251460a1-bc3c-48f9-aa03-3eb92f538a15,13,Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I,913,Mecklenburg-Vorpommern,congressional,7.2,10322,8.1,11629,1.8899999999999997,par_de_4,FDP
+251460a1-bc3c-48f9-aa03-3eb92f538a15,13,Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I,913,Mecklenburg-Vorpommern,congressional,5.7,8163,7,10146,3.2,par_de_3,Grüne
+251460a1-bc3c-48f9-aa03-3eb92f538a15,13,Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I,913,Mecklenburg-Vorpommern,congressional,NA,NA,1.8,2559,0.55,par_de_12,Tierschutzpartei
+251460a1-bc3c-48f9-aa03-3eb92f538a15,13,Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I,913,Mecklenburg-Vorpommern,congressional,2.5,3531,1.7,2384,0.86,par_de_7,Freie Wähler
+251460a1-bc3c-48f9-aa03-3eb92f538a15,13,Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I,913,Mecklenburg-Vorpommern,congressional,NA,NA,0.7,1019,-0.12,par_de_13,Die Partei
+251460a1-bc3c-48f9-aa03-3eb92f538a15,13,Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I,913,Mecklenburg-Vorpommern,congressional,NA,NA,0.6,890,-0.5299999999999999,par_de_11,NPD
+251460a1-bc3c-48f9-aa03-3eb92f538a15,13,Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I,913,Mecklenburg-Vorpommern,congressional,NA,NA,0.4,627,NA,par_de_9,Piraten
+251460a1-bc3c-48f9-aa03-3eb92f538a15,13,Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I,913,Mecklenburg-Vorpommern,congressional,NA,NA,0.1,195,-0.04999999999999999,par_de_14,ÖDP
+251460a1-bc3c-48f9-aa03-3eb92f538a15,13,Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I,913,Mecklenburg-Vorpommern,congressional,NA,NA,0.1,108,NA,par_de_27,DKP
+251460a1-bc3c-48f9-aa03-3eb92f538a15,13,Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I,913,Mecklenburg-Vorpommern,congressional,NA,NA,0.1,158,NA,par_de_39,Humanisten
+251460a1-bc3c-48f9-aa03-3eb92f538a15,13,Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I,913,Mecklenburg-Vorpommern,congressional,NA,NA,0,65,-0.13,par_de_28,MLPD
 880ba73a-e34b-4f08-92e3-af24f18e1860,12,Schwerin – Ludwigslust-Parchim I – Nordwestmecklenburg I,913,Mecklenburg-Vorpommern,congressional,29.4,45107,32,49269,13.370000000000001,par_de_1,SPD
 880ba73a-e34b-4f08-92e3-af24f18e1860,12,Schwerin – Ludwigslust-Parchim I – Nordwestmecklenburg I,913,Mecklenburg-Vorpommern,congressional,20.7,31721,17.2,26403,-15.669999999999998,par_de_2,CDU
 880ba73a-e34b-4f08-92e3-af24f18e1860,12,Schwerin – Ludwigslust-Parchim I – Nordwestmecklenburg I,913,Mecklenburg-Vorpommern,congressional,16.5,25380,15.7,24179,-0.8300000000000018,par_de_6,AfD
@@ -4564,3 +4910,147 @@ f710406e-2fd3-46da-ab11-4be40305996b,18,Hamburg-Mitte,902,Hamburg,congressional,
 880ba73a-e34b-4f08-92e3-af24f18e1860,12,Schwerin – Ludwigslust-Parchim I – Nordwestmecklenburg I,913,Mecklenburg-Vorpommern,congressional,0.2,249,0.1,114,-0.04999999999999999,par_de_28,MLPD
 880ba73a-e34b-4f08-92e3-af24f18e1860,12,Schwerin – Ludwigslust-Parchim I – Nordwestmecklenburg I,913,Mecklenburg-Vorpommern,congressional,NA,NA,0.1,168,NA,par_de_39,Humanisten
 880ba73a-e34b-4f08-92e3-af24f18e1860,12,Schwerin – Ludwigslust-Parchim I – Nordwestmecklenburg I,913,Mecklenburg-Vorpommern,congressional,NA,NA,0.1,129,NA,par_de_27,DKP
+b58d7560-6fd6-4d8b-8686-f699239e2afb,10,Herzogtum Lauenburg – Stormarn-Süd,901,Schleswig-Holstein,congressional,31,60592,28.8,56417,6.5,par_de_1,SPD
+b58d7560-6fd6-4d8b-8686-f699239e2afb,10,Herzogtum Lauenburg – Stormarn-Süd,901,Schleswig-Holstein,congressional,26.5,51838,23.2,45372,-11.2,par_de_2,CDU
+b58d7560-6fd6-4d8b-8686-f699239e2afb,10,Herzogtum Lauenburg – Stormarn-Süd,901,Schleswig-Holstein,congressional,17.4,33953,16.6,32475,5.750000000000002,par_de_3,Grüne
+b58d7560-6fd6-4d8b-8686-f699239e2afb,10,Herzogtum Lauenburg – Stormarn-Süd,901,Schleswig-Holstein,congressional,10.5,20546,14.2,27692,0.5699999999999985,par_de_4,FDP
+b58d7560-6fd6-4d8b-8686-f699239e2afb,10,Herzogtum Lauenburg – Stormarn-Süd,901,Schleswig-Holstein,congressional,7.2,14053,7.5,14684,-2.289999999999999,par_de_6,AfD
+b58d7560-6fd6-4d8b-8686-f699239e2afb,10,Herzogtum Lauenburg – Stormarn-Süd,901,Schleswig-Holstein,congressional,2.6,5167,3.2,6328,-3.3,par_de_5,Linke
+b58d7560-6fd6-4d8b-8686-f699239e2afb,10,Herzogtum Lauenburg – Stormarn-Süd,901,Schleswig-Holstein,congressional,NA,NA,1.2,2283,NA,par_de_12,Tierschutzpartei
+b58d7560-6fd6-4d8b-8686-f699239e2afb,10,Herzogtum Lauenburg – Stormarn-Süd,901,Schleswig-Holstein,congressional,1.8,3519,1.1,2198,0.44000000000000006,par_de_7,Freie Wähler
+b58d7560-6fd6-4d8b-8686-f699239e2afb,10,Herzogtum Lauenburg – Stormarn-Süd,901,Schleswig-Holstein,congressional,1.5,2955,0.9,1800,-0.20000000000000007,par_de_13,Die Partei
+b58d7560-6fd6-4d8b-8686-f699239e2afb,10,Herzogtum Lauenburg – Stormarn-Süd,901,Schleswig-Holstein,congressional,NA,NA,0.1,107,NA,par_de_77,du.
+b58d7560-6fd6-4d8b-8686-f699239e2afb,10,Herzogtum Lauenburg – Stormarn-Süd,901,Schleswig-Holstein,congressional,NA,NA,0.1,155,NA,par_de_75,V-Partei³
+b58d7560-6fd6-4d8b-8686-f699239e2afb,10,Herzogtum Lauenburg – Stormarn-Süd,901,Schleswig-Holstein,congressional,NA,NA,0.1,158,NA,par_de_39,Humanisten
+b58d7560-6fd6-4d8b-8686-f699239e2afb,10,Herzogtum Lauenburg – Stormarn-Süd,901,Schleswig-Holstein,congressional,NA,NA,0.1,216,-0.12,par_de_14,ÖDP
+b58d7560-6fd6-4d8b-8686-f699239e2afb,10,Herzogtum Lauenburg – Stormarn-Süd,901,Schleswig-Holstein,congressional,NA,NA,0.1,255,-0.16,par_de_11,NPD
+b58d7560-6fd6-4d8b-8686-f699239e2afb,10,Herzogtum Lauenburg – Stormarn-Süd,901,Schleswig-Holstein,congressional,0.1,127,0,85,NA,par_de_27,DKP
+b58d7560-6fd6-4d8b-8686-f699239e2afb,10,Herzogtum Lauenburg – Stormarn-Süd,901,Schleswig-Holstein,congressional,NA,NA,0,28,-0.03,par_de_28,MLPD
+d0728238-1b53-4b2b-8a3d-6a1f76fc8633,9,Ostholstein – Stormarn-Nord,901,Schleswig-Holstein,congressional,33.7,47718,30,42522,5.41,par_de_1,SPD
+d0728238-1b53-4b2b-8a3d-6a1f76fc8633,9,Ostholstein – Stormarn-Nord,901,Schleswig-Holstein,congressional,30.3,42989,25.1,35564,-10.519999999999996,par_de_2,CDU
+d0728238-1b53-4b2b-8a3d-6a1f76fc8633,9,Ostholstein – Stormarn-Nord,901,Schleswig-Holstein,congressional,13.4,19027,15.7,22315,5.869999999999999,par_de_3,Grüne
+d0728238-1b53-4b2b-8a3d-6a1f76fc8633,9,Ostholstein – Stormarn-Nord,901,Schleswig-Holstein,congressional,9.4,13288,12.7,17986,-0.52000000000000135,par_de_4,FDP
+d0728238-1b53-4b2b-8a3d-6a1f76fc8633,9,Ostholstein – Stormarn-Nord,901,Schleswig-Holstein,congressional,6.8,9646,7.1,10073,-1.4800000000000004,par_de_6,AfD
+d0728238-1b53-4b2b-8a3d-6a1f76fc8633,9,Ostholstein – Stormarn-Nord,901,Schleswig-Holstein,congressional,2.9,4122,2.8,4031,-3.25,par_de_5,Linke
+d0728238-1b53-4b2b-8a3d-6a1f76fc8633,9,Ostholstein – Stormarn-Nord,901,Schleswig-Holstein,congressional,NA,NA,1.2,1728,NA,par_de_12,Tierschutzpartei
+d0728238-1b53-4b2b-8a3d-6a1f76fc8633,9,Ostholstein – Stormarn-Nord,901,Schleswig-Holstein,congressional,1.8,2582,1.1,1603,0.4700000000000001,par_de_7,Freie Wähler
+d0728238-1b53-4b2b-8a3d-6a1f76fc8633,9,Ostholstein – Stormarn-Nord,901,Schleswig-Holstein,congressional,NA,NA,0.8,1104,-0.07999999999999996,par_de_13,Die Partei
+d0728238-1b53-4b2b-8a3d-6a1f76fc8633,9,Ostholstein – Stormarn-Nord,901,Schleswig-Holstein,congressional,NA,NA,0.1,198,-0.12,par_de_11,NPD
+d0728238-1b53-4b2b-8a3d-6a1f76fc8633,9,Ostholstein – Stormarn-Nord,901,Schleswig-Holstein,congressional,NA,NA,0.1,89,NA,par_de_39,Humanisten
+d0728238-1b53-4b2b-8a3d-6a1f76fc8633,9,Ostholstein – Stormarn-Nord,901,Schleswig-Holstein,congressional,NA,NA,0.1,102,-0.03,par_de_14,ÖDP
+d0728238-1b53-4b2b-8a3d-6a1f76fc8633,9,Ostholstein – Stormarn-Nord,901,Schleswig-Holstein,congressional,NA,NA,0.1,109,NA,par_de_75,V-Partei³
+d0728238-1b53-4b2b-8a3d-6a1f76fc8633,9,Ostholstein – Stormarn-Nord,901,Schleswig-Holstein,congressional,NA,NA,0,13,-0.03,par_de_28,MLPD
+d0728238-1b53-4b2b-8a3d-6a1f76fc8633,9,Ostholstein – Stormarn-Nord,901,Schleswig-Holstein,congressional,NA,NA,0,28,NA,par_de_27,DKP
+d0728238-1b53-4b2b-8a3d-6a1f76fc8633,9,Ostholstein – Stormarn-Nord,901,Schleswig-Holstein,congressional,NA,NA,0,65,NA,par_de_77,du.
+69800905-cf79-47f2-a051-49cb171d347b,8,Segeberg – Stormarn-Mitte,901,Schleswig-Holstein,congressional,32,63369,28.6,56659,6.18,par_de_1,SPD
+69800905-cf79-47f2-a051-49cb171d347b,8,Segeberg – Stormarn-Mitte,901,Schleswig-Holstein,congressional,27.9,55264,22.3,44284,-12.279999999999998,par_de_2,CDU
+69800905-cf79-47f2-a051-49cb171d347b,8,Segeberg – Stormarn-Mitte,901,Schleswig-Holstein,congressional,13.7,27109,16.8,33361,5.850000000000001,par_de_3,Grüne
+69800905-cf79-47f2-a051-49cb171d347b,8,Segeberg – Stormarn-Mitte,901,Schleswig-Holstein,congressional,10.4,20575,14,27675,0.4299999999999997,par_de_4,FDP
+69800905-cf79-47f2-a051-49cb171d347b,8,Segeberg – Stormarn-Mitte,901,Schleswig-Holstein,congressional,7.1,14039,7.3,14527,-1.6399999999999997,par_de_6,AfD
+69800905-cf79-47f2-a051-49cb171d347b,8,Segeberg – Stormarn-Mitte,901,Schleswig-Holstein,congressional,3.1,6205,3.3,6468,-3.6000000000000005,par_de_5,Linke
+69800905-cf79-47f2-a051-49cb171d347b,8,Segeberg – Stormarn-Mitte,901,Schleswig-Holstein,congressional,NA,NA,1.3,2655,NA,par_de_12,Tierschutzpartei
+69800905-cf79-47f2-a051-49cb171d347b,8,Segeberg – Stormarn-Mitte,901,Schleswig-Holstein,congressional,2.4,4656,1.2,2297,0.3999999999999999,par_de_7,Freie Wähler
+69800905-cf79-47f2-a051-49cb171d347b,8,Segeberg – Stormarn-Mitte,901,Schleswig-Holstein,congressional,1.7,3299,1.1,2225,-0.010000000000000009,par_de_13,Die Partei
+69800905-cf79-47f2-a051-49cb171d347b,8,Segeberg – Stormarn-Mitte,901,Schleswig-Holstein,congressional,NA,NA,0.1,238,-0.13999999999999999,par_de_11,NPD
+69800905-cf79-47f2-a051-49cb171d347b,8,Segeberg – Stormarn-Mitte,901,Schleswig-Holstein,congressional,NA,NA,0.1,119,NA,par_de_77,du.
+69800905-cf79-47f2-a051-49cb171d347b,8,Segeberg – Stormarn-Mitte,901,Schleswig-Holstein,congressional,NA,NA,0.1,199,-0.1,par_de_14,ÖDP
+69800905-cf79-47f2-a051-49cb171d347b,8,Segeberg – Stormarn-Mitte,901,Schleswig-Holstein,congressional,NA,NA,0.1,187,NA,par_de_39,Humanisten
+69800905-cf79-47f2-a051-49cb171d347b,8,Segeberg – Stormarn-Mitte,901,Schleswig-Holstein,congressional,NA,NA,0.1,203,NA,par_de_75,V-Partei³
+69800905-cf79-47f2-a051-49cb171d347b,8,Segeberg – Stormarn-Mitte,901,Schleswig-Holstein,congressional,NA,NA,0,41,-0.04,par_de_28,MLPD
+69800905-cf79-47f2-a051-49cb171d347b,8,Segeberg – Stormarn-Mitte,901,Schleswig-Holstein,congressional,NA,NA,0,55,NA,par_de_27,DKP
+3aefb958-2bc8-45b6-a3e6-afc3f13c7fb4,6,Plön – Neumünster,901,Schleswig-Holstein,congressional,31.4,41498,29.2,38672,5.439999999999998,par_de_1,SPD
+3aefb958-2bc8-45b6-a3e6-afc3f13c7fb4,6,Plön – Neumünster,901,Schleswig-Holstein,congressional,27.9,36869,22.9,30290,-10.64,par_de_2,CDU
+3aefb958-2bc8-45b6-a3e6-afc3f13c7fb4,6,Plön – Neumünster,901,Schleswig-Holstein,congressional,15.7,20739,17.4,23052,4.869999999999999,par_de_3,Grüne
+3aefb958-2bc8-45b6-a3e6-afc3f13c7fb4,6,Plön – Neumünster,901,Schleswig-Holstein,congressional,9.4,12420,12,15902,-0.6300000000000008,par_de_4,FDP
+3aefb958-2bc8-45b6-a3e6-afc3f13c7fb4,6,Plön – Neumünster,901,Schleswig-Holstein,congressional,7.1,9404,7.4,9741,-1.1500000000000004,par_de_6,AfD
+3aefb958-2bc8-45b6-a3e6-afc3f13c7fb4,6,Plön – Neumünster,901,Schleswig-Holstein,congressional,2.8,3718,3.2,4233,-3.3199999999999994,par_de_5,Linke
+3aefb958-2bc8-45b6-a3e6-afc3f13c7fb4,6,Plön – Neumünster,901,Schleswig-Holstein,congressional,NA,NA,1.1,1446,NA,par_de_12,Tierschutzpartei
+3aefb958-2bc8-45b6-a3e6-afc3f13c7fb4,6,Plön – Neumünster,901,Schleswig-Holstein,congressional,1.7,2196,1,1300,-0.030000000000000027,par_de_13,Die Partei
+3aefb958-2bc8-45b6-a3e6-afc3f13c7fb4,6,Plön – Neumünster,901,Schleswig-Holstein,congressional,1.8,2386,1,1275,0.43000000000000005,par_de_7,Freie Wähler
+3aefb958-2bc8-45b6-a3e6-afc3f13c7fb4,6,Plön – Neumünster,901,Schleswig-Holstein,congressional,NA,NA,0.2,242,-0.16999999999999998,par_de_11,NPD
+3aefb958-2bc8-45b6-a3e6-afc3f13c7fb4,6,Plön – Neumünster,901,Schleswig-Holstein,congressional,NA,NA,0.1,98,NA,par_de_75,V-Partei³
+3aefb958-2bc8-45b6-a3e6-afc3f13c7fb4,6,Plön – Neumünster,901,Schleswig-Holstein,congressional,NA,NA,0.1,70,NA,par_de_77,du.
+3aefb958-2bc8-45b6-a3e6-afc3f13c7fb4,6,Plön – Neumünster,901,Schleswig-Holstein,congressional,NA,NA,0.1,94,-0.04000000000000001,par_de_14,ÖDP
+3aefb958-2bc8-45b6-a3e6-afc3f13c7fb4,6,Plön – Neumünster,901,Schleswig-Holstein,congressional,NA,NA,0.1,111,NA,par_de_39,Humanisten
+3aefb958-2bc8-45b6-a3e6-afc3f13c7fb4,6,Plön – Neumünster,901,Schleswig-Holstein,congressional,NA,NA,0,34,NA,par_de_27,DKP
+3aefb958-2bc8-45b6-a3e6-afc3f13c7fb4,6,Plön – Neumünster,901,Schleswig-Holstein,congressional,NA,NA,0,23,-0.05,par_de_28,MLPD
+0c0408b5-421f-4a9a-92d0-c8d1363aacee,5,Kiel,901,Schleswig-Holstein,congressional,28.1,43560,28.4,44124,11.209999999999997,par_de_3,Grüne
+0c0408b5-421f-4a9a-92d0-c8d1363aacee,5,Kiel,901,Schleswig-Holstein,congressional,29.5,45767,26,40354,2.1900000000000013,par_de_1,SPD
+0c0408b5-421f-4a9a-92d0-c8d1363aacee,5,Kiel,901,Schleswig-Holstein,congressional,18.3,28341,15.4,23867,-11.389999999999999,par_de_2,CDU
+0c0408b5-421f-4a9a-92d0-c8d1363aacee,5,Kiel,901,Schleswig-Holstein,congressional,7.4,11499,10.4,16168,-1.3100000000000005,par_de_4,FDP
+0c0408b5-421f-4a9a-92d0-c8d1363aacee,5,Kiel,901,Schleswig-Holstein,congressional,4.7,7316,6.1,9448,-4.120000000000001,par_de_5,Linke
+0c0408b5-421f-4a9a-92d0-c8d1363aacee,5,Kiel,901,Schleswig-Holstein,congressional,4.6,7179,4.9,7676,-2.01,par_de_6,AfD
+0c0408b5-421f-4a9a-92d0-c8d1363aacee,5,Kiel,901,Schleswig-Holstein,congressional,1.9,2977,1.4,2210,-0.71,par_de_13,Die Partei
+0c0408b5-421f-4a9a-92d0-c8d1363aacee,5,Kiel,901,Schleswig-Holstein,congressional,NA,NA,1.1,1686,NA,par_de_12,Tierschutzpartei
+0c0408b5-421f-4a9a-92d0-c8d1363aacee,5,Kiel,901,Schleswig-Holstein,congressional,0.7,1154,0.6,962,0.24,par_de_7,Freie Wähler
+0c0408b5-421f-4a9a-92d0-c8d1363aacee,5,Kiel,901,Schleswig-Holstein,congressional,NA,NA,0.2,305,NA,par_de_39,Humanisten
+0c0408b5-421f-4a9a-92d0-c8d1363aacee,5,Kiel,901,Schleswig-Holstein,congressional,0.1,206,0.1,117,NA,par_de_77,du.
+0c0408b5-421f-4a9a-92d0-c8d1363aacee,5,Kiel,901,Schleswig-Holstein,congressional,NA,NA,0.1,118,-0.13,par_de_14,ÖDP
+0c0408b5-421f-4a9a-92d0-c8d1363aacee,5,Kiel,901,Schleswig-Holstein,congressional,0.1,108,0.1,87,NA,par_de_27,DKP
+0c0408b5-421f-4a9a-92d0-c8d1363aacee,5,Kiel,901,Schleswig-Holstein,congressional,NA,NA,0.1,171,NA,par_de_75,V-Partei³
+0c0408b5-421f-4a9a-92d0-c8d1363aacee,5,Kiel,901,Schleswig-Holstein,congressional,NA,NA,0.1,121,-0.06,par_de_11,NPD
+0c0408b5-421f-4a9a-92d0-c8d1363aacee,5,Kiel,901,Schleswig-Holstein,congressional,0,75,0,39,-0.1,par_de_28,MLPD
+20228b03-9c67-4717-a582-b5d107ca17a2,4,Rendsburg-Eckernförde,901,Schleswig-Holstein,congressional,30.8,49477,26.8,43149,3.91,par_de_1,SPD
+20228b03-9c67-4717-a582-b5d107ca17a2,4,Rendsburg-Eckernförde,901,Schleswig-Holstein,congressional,29.7,47697,23.9,38527,-12.310000000000002,par_de_2,CDU
+20228b03-9c67-4717-a582-b5d107ca17a2,4,Rendsburg-Eckernförde,901,Schleswig-Holstein,congressional,14.8,23831,17.9,28828,5.529999999999999,par_de_3,Grüne
+20228b03-9c67-4717-a582-b5d107ca17a2,4,Rendsburg-Eckernförde,901,Schleswig-Holstein,congressional,8,12900,12,19317,-0.1999999999999993,par_de_4,FDP
+20228b03-9c67-4717-a582-b5d107ca17a2,4,Rendsburg-Eckernförde,901,Schleswig-Holstein,congressional,6.3,10197,6.6,10562,-0.8100000000000005,par_de_6,AfD
+20228b03-9c67-4717-a582-b5d107ca17a2,4,Rendsburg-Eckernförde,901,Schleswig-Holstein,congressional,2.7,4415,3.2,5163,-3.17,par_de_5,Linke
+20228b03-9c67-4717-a582-b5d107ca17a2,4,Rendsburg-Eckernförde,901,Schleswig-Holstein,congressional,NA,NA,1.1,1731,NA,par_de_12,Tierschutzpartei
+20228b03-9c67-4717-a582-b5d107ca17a2,4,Rendsburg-Eckernförde,901,Schleswig-Holstein,congressional,1.3,2157,1,1624,-0.1200000000000001,par_de_13,Die Partei
+20228b03-9c67-4717-a582-b5d107ca17a2,4,Rendsburg-Eckernförde,901,Schleswig-Holstein,congressional,1,1649,0.7,1174,0.039999999999999925,par_de_7,Freie Wähler
+20228b03-9c67-4717-a582-b5d107ca17a2,4,Rendsburg-Eckernförde,901,Schleswig-Holstein,congressional,NA,NA,0.1,158,-0.1,par_de_11,NPD
+20228b03-9c67-4717-a582-b5d107ca17a2,4,Rendsburg-Eckernförde,901,Schleswig-Holstein,congressional,NA,NA,0.1,81,NA,par_de_77,du.
+20228b03-9c67-4717-a582-b5d107ca17a2,4,Rendsburg-Eckernförde,901,Schleswig-Holstein,congressional,NA,NA,0.1,122,-0.04999999999999999,par_de_14,ÖDP
+20228b03-9c67-4717-a582-b5d107ca17a2,4,Rendsburg-Eckernförde,901,Schleswig-Holstein,congressional,NA,NA,0.1,139,NA,par_de_39,Humanisten
+20228b03-9c67-4717-a582-b5d107ca17a2,4,Rendsburg-Eckernförde,901,Schleswig-Holstein,congressional,NA,NA,0.1,123,NA,par_de_75,V-Partei³
+20228b03-9c67-4717-a582-b5d107ca17a2,4,Rendsburg-Eckernförde,901,Schleswig-Holstein,congressional,NA,NA,0,32,NA,par_de_27,DKP
+20228b03-9c67-4717-a582-b5d107ca17a2,4,Rendsburg-Eckernförde,901,Schleswig-Holstein,congressional,NA,NA,0,33,-0.04,par_de_28,MLPD
+bed41754-c98d-43c1-981a-e51fabc685c3,3,Steinburg – Dithmarschen Süd,901,Schleswig-Holstein,congressional,29.2,39364,27.7,37466,4.960000000000001,par_de_1,SPD
+bed41754-c98d-43c1-981a-e51fabc685c3,3,Steinburg – Dithmarschen Süd,901,Schleswig-Holstein,congressional,29.2,39434,24.3,32843,-11.889999999999997,par_de_2,CDU
+bed41754-c98d-43c1-981a-e51fabc685c3,3,Steinburg – Dithmarschen Süd,901,Schleswig-Holstein,congressional,12.4,16685,14.2,19241,4.299999999999999,par_de_3,Grüne
+bed41754-c98d-43c1-981a-e51fabc685c3,3,Steinburg – Dithmarschen Süd,901,Schleswig-Holstein,congressional,14.3,19303,13.7,18499,0.47999999999999865,par_de_4,FDP
+bed41754-c98d-43c1-981a-e51fabc685c3,3,Steinburg – Dithmarschen Süd,901,Schleswig-Holstein,congressional,7.7,10429,8.4,11304,-0.1399999999999988,par_de_6,AfD
+bed41754-c98d-43c1-981a-e51fabc685c3,3,Steinburg – Dithmarschen Süd,901,Schleswig-Holstein,congressional,3.2,4339,3.3,4524,-3.37,par_de_5,Linke
+bed41754-c98d-43c1-981a-e51fabc685c3,3,Steinburg – Dithmarschen Süd,901,Schleswig-Holstein,congressional,NA,NA,1.3,1721,NA,par_de_12,Tierschutzpartei
+bed41754-c98d-43c1-981a-e51fabc685c3,3,Steinburg – Dithmarschen Süd,901,Schleswig-Holstein,congressional,1.9,2565,1.3,1713,0.53,par_de_7,Freie Wähler
+bed41754-c98d-43c1-981a-e51fabc685c3,3,Steinburg – Dithmarschen Süd,901,Schleswig-Holstein,congressional,NA,NA,1,1346,-0.10000000000000009,par_de_13,Die Partei
+bed41754-c98d-43c1-981a-e51fabc685c3,3,Steinburg – Dithmarschen Süd,901,Schleswig-Holstein,congressional,0.4,580,0.2,246,NA,par_de_75,V-Partei³
+bed41754-c98d-43c1-981a-e51fabc685c3,3,Steinburg – Dithmarschen Süd,901,Schleswig-Holstein,congressional,NA,NA,0.1,76,NA,par_de_77,du.
+bed41754-c98d-43c1-981a-e51fabc685c3,3,Steinburg – Dithmarschen Süd,901,Schleswig-Holstein,congressional,NA,NA,0.1,190,-0.26,par_de_11,NPD
+bed41754-c98d-43c1-981a-e51fabc685c3,3,Steinburg – Dithmarschen Süd,901,Schleswig-Holstein,congressional,NA,NA,0.1,118,NA,par_de_39,Humanisten
+bed41754-c98d-43c1-981a-e51fabc685c3,3,Steinburg – Dithmarschen Süd,901,Schleswig-Holstein,congressional,NA,NA,0.1,105,-0.04999999999999999,par_de_14,ÖDP
+bed41754-c98d-43c1-981a-e51fabc685c3,3,Steinburg – Dithmarschen Süd,901,Schleswig-Holstein,congressional,NA,NA,0,30,NA,par_de_27,DKP
+bed41754-c98d-43c1-981a-e51fabc685c3,3,Steinburg – Dithmarschen Süd,901,Schleswig-Holstein,congressional,NA,NA,0,25,-0.05,par_de_28,MLPD
+0a0e0175-1647-4961-90f1-bc3c3dae6fcb,2,Nordfriesland – Dithmarschen Nord,901,Schleswig-Holstein,congressional,27.8,40034,26.3,37939,3.7600000000000016,par_de_1,SPD
+0a0e0175-1647-4961-90f1-bc3c3dae6fcb,2,Nordfriesland – Dithmarschen Nord,901,Schleswig-Holstein,congressional,30.4,43771,24.6,35518,-13.729999999999997,par_de_2,CDU
+0a0e0175-1647-4961-90f1-bc3c3dae6fcb,2,Nordfriesland – Dithmarschen Nord,901,Schleswig-Holstein,congressional,14.3,20615,15.7,22595,4.729999999999999,par_de_3,Grüne
+0a0e0175-1647-4961-90f1-bc3c3dae6fcb,2,Nordfriesland – Dithmarschen Nord,901,Schleswig-Holstein,congressional,9.7,13963,12.7,18350,-0.370000000000001,par_de_4,FDP
+0a0e0175-1647-4961-90f1-bc3c3dae6fcb,2,Nordfriesland – Dithmarschen Nord,901,Schleswig-Holstein,congressional,5.7,8270,6.1,8796,-0.4400000000000004,par_de_6,AfD
+0a0e0175-1647-4961-90f1-bc3c3dae6fcb,2,Nordfriesland – Dithmarschen Nord,901,Schleswig-Holstein,congressional,2.8,4059,3.1,4439,-3.1199999999999997,par_de_5,Linke
+0a0e0175-1647-4961-90f1-bc3c3dae6fcb,2,Nordfriesland – Dithmarschen Nord,901,Schleswig-Holstein,congressional,NA,NA,1.1,1608,NA,par_de_12,Tierschutzpartei
+0a0e0175-1647-4961-90f1-bc3c3dae6fcb,2,Nordfriesland – Dithmarschen Nord,901,Schleswig-Holstein,congressional,NA,NA,0.9,1322,-0.09999999999999998,par_de_13,Die Partei
+0a0e0175-1647-4961-90f1-bc3c3dae6fcb,2,Nordfriesland – Dithmarschen Nord,901,Schleswig-Holstein,congressional,1,1509,0.7,1080,0.06999999999999995,par_de_7,Freie Wähler
+0a0e0175-1647-4961-90f1-bc3c3dae6fcb,2,Nordfriesland – Dithmarschen Nord,901,Schleswig-Holstein,congressional,NA,NA,0.1,130,NA,par_de_39,Humanisten
+0a0e0175-1647-4961-90f1-bc3c3dae6fcb,2,Nordfriesland – Dithmarschen Nord,901,Schleswig-Holstein,congressional,NA,NA,0.1,126,NA,par_de_75,V-Partei³
+0a0e0175-1647-4961-90f1-bc3c3dae6fcb,2,Nordfriesland – Dithmarschen Nord,901,Schleswig-Holstein,congressional,NA,NA,0.1,146,-0.12,par_de_11,NPD
+0a0e0175-1647-4961-90f1-bc3c3dae6fcb,2,Nordfriesland – Dithmarschen Nord,901,Schleswig-Holstein,congressional,NA,NA,0.1,121,-0.03,par_de_14,ÖDP
+0a0e0175-1647-4961-90f1-bc3c3dae6fcb,2,Nordfriesland – Dithmarschen Nord,901,Schleswig-Holstein,congressional,NA,NA,0,33,NA,par_de_27,DKP
+0a0e0175-1647-4961-90f1-bc3c3dae6fcb,2,Nordfriesland – Dithmarschen Nord,901,Schleswig-Holstein,congressional,NA,NA,0,26,-0.05,par_de_28,MLPD
+0a0e0175-1647-4961-90f1-bc3c3dae6fcb,2,Nordfriesland – Dithmarschen Nord,901,Schleswig-Holstein,congressional,NA,NA,0,59,NA,par_de_77,du.
+4f5dc855-21a5-4a6a-819a-fb53436a8134,1,Flensburg – Schleswig,901,Schleswig-Holstein,congressional,21.8,38932,25.5,45508,1.8099999999999987,par_de_1,SPD
+4f5dc855-21a5-4a6a-819a-fb53436a8134,1,Flensburg – Schleswig,901,Schleswig-Holstein,congressional,23.4,41721,20.4,36417,-13.810000000000002,par_de_2,CDU
+4f5dc855-21a5-4a6a-819a-fb53436a8134,1,Flensburg – Schleswig,901,Schleswig-Holstein,congressional,28.1,50231,18.6,33299,5.520000000000001,par_de_3,Grüne
+4f5dc855-21a5-4a6a-819a-fb53436a8134,1,Flensburg – Schleswig,901,Schleswig-Holstein,congressional,6.9,12298,10.7,19188,-0.41999999999999993,par_de_4,FDP
+4f5dc855-21a5-4a6a-819a-fb53436a8134,1,Flensburg – Schleswig,901,Schleswig-Holstein,congressional,5.5,9766,5.8,10315,-1.04,par_de_6,AfD
+4f5dc855-21a5-4a6a-819a-fb53436a8134,1,Flensburg – Schleswig,901,Schleswig-Holstein,congressional,3.7,6539,4.2,7473,-4.010000000000001,par_de_5,Linke
+4f5dc855-21a5-4a6a-819a-fb53436a8134,1,Flensburg – Schleswig,901,Schleswig-Holstein,congressional,NA,NA,1.1,1990,NA,par_de_12,Tierschutzpartei
+4f5dc855-21a5-4a6a-819a-fb53436a8134,1,Flensburg – Schleswig,901,Schleswig-Holstein,congressional,1.3,2324,1,1715,0.30000000000000004,par_de_7,Freie Wähler
+4f5dc855-21a5-4a6a-819a-fb53436a8134,1,Flensburg – Schleswig,901,Schleswig-Holstein,congressional,NA,NA,1,1851,-0.22999999999999998,par_de_13,Die Partei
+4f5dc855-21a5-4a6a-819a-fb53436a8134,1,Flensburg – Schleswig,901,Schleswig-Holstein,congressional,0.1,226,0.1,118,NA,par_de_77,du.
+4f5dc855-21a5-4a6a-819a-fb53436a8134,1,Flensburg – Schleswig,901,Schleswig-Holstein,congressional,NA,NA,0.1,156,NA,par_de_39,Humanisten
+4f5dc855-21a5-4a6a-819a-fb53436a8134,1,Flensburg – Schleswig,901,Schleswig-Holstein,congressional,NA,NA,0.1,195,NA,par_de_75,V-Partei³
+4f5dc855-21a5-4a6a-819a-fb53436a8134,1,Flensburg – Schleswig,901,Schleswig-Holstein,congressional,NA,NA,0.1,140,-0.1,par_de_11,NPD
+4f5dc855-21a5-4a6a-819a-fb53436a8134,1,Flensburg – Schleswig,901,Schleswig-Holstein,congressional,NA,NA,0.1,132,-0.07,par_de_14,ÖDP
+4f5dc855-21a5-4a6a-819a-fb53436a8134,1,Flensburg – Schleswig,901,Schleswig-Holstein,congressional,NA,NA,0,19,-0.03,par_de_28,MLPD
+4f5dc855-21a5-4a6a-819a-fb53436a8134,1,Flensburg – Schleswig,901,Schleswig-Holstein,congressional,NA,NA,0,40,NA,par_de_27,DKP
